@@ -1,0 +1,2 @@
+/usr/bin/ar cr libdensecrf.a  CMakeFiles/densecrf.dir/util.cpp.o CMakeFiles/densecrf.dir/bipartitedensecrf.cpp.o CMakeFiles/densecrf.dir/permutohedral.cpp.o CMakeFiles/densecrf.dir/densecrf.cpp.o CMakeFiles/densecrf.dir/filter.cpp.o
+/usr/bin/ranlib libdensecrf.a

@@ -1,0 +1,3 @@
+/home/xduser/lihuan/cnpy-master/build/CMakeFiles/cnpy.dir
+/home/xduser/lihuan/cnpy-master/build/CMakeFiles/cnpy-static.dir
+/home/xduser/lihuan/cnpy-master/build/CMakeFiles/example1.dir

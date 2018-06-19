@@ -1,0 +1,831 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	193;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	196;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	199;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	202;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	206;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	181;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	184;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	187;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	190;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	194;"	d	file:
+Adobe_transform	include/jpeglib.h	/^  UINT8 Adobe_transform;	\/* Color transform code from Adobe marker *\/$/;"	m	struct:jpeg_decompress_struct
+Ah	include/jpeglib.h	/^  int Ah, Al;			\/* progressive JPEG successive approx. parms *\/$/;"	m	struct:__anon6
+Ah	include/jpeglib.h	/^  int Ss, Se, Ah, Al;		\/* progressive JPEG parameters for scan *\/$/;"	m	struct:jpeg_compress_struct
+Ah	include/jpeglib.h	/^  int Ss, Se, Ah, Al;		\/* progressive JPEG parameters for scan *\/$/;"	m	struct:jpeg_decompress_struct
+Al	include/jpeglib.h	/^  int Ah, Al;			\/* progressive JPEG successive approx. parms *\/$/;"	m	struct:__anon6
+Al	include/jpeglib.h	/^  int Ss, Se, Ah, Al;		\/* progressive JPEG parameters for scan *\/$/;"	m	struct:jpeg_compress_struct
+Al	include/jpeglib.h	/^  int Ss, Se, Ah, Al;		\/* progressive JPEG parameters for scan *\/$/;"	m	struct:jpeg_decompress_struct
+BITS_IN_JSAMPLE	include/jmorecfg.h	24;"	d
+BLOCK_SMOOTHING_SUPPORTED	include/jmorecfg.h	319;"	d
+BMP_SUPPORTED	include/jconfig.h	41;"	d
+CCIR601_sampling	include/jpeglib.h	/^  boolean CCIR601_sampling;	\/* TRUE=first samples are cosited *\/$/;"	m	struct:jpeg_compress_struct
+CCIR601_sampling	include/jpeglib.h	/^  boolean CCIR601_sampling;	\/* TRUE=first samples are cosited *\/$/;"	m	struct:jpeg_decompress_struct
+CENTERJSAMPLE	include/jmorecfg.h	75;"	d
+CENTERJSAMPLE	include/jmorecfg.h	89;"	d
+CMAKE_BINARY_DIR	build/Makefile	/^CMAKE_BINARY_DIR = \/home\/xduser\/LiHuan\/SLICO\/build$/;"	m
+CMAKE_BINARY_DIR	build/example/Makefile	/^CMAKE_BINARY_DIR = \/home\/xduser\/LiHuan\/SLICO\/build$/;"	m
+CMAKE_BINARY_DIR	build/lib/Makefile	/^CMAKE_BINARY_DIR = \/home\/xduser\/LiHuan\/SLICO\/build$/;"	m
+CMAKE_BINARY_DIR	build/src/Makefile	/^CMAKE_BINARY_DIR = \/home\/xduser\/LiHuan\/SLICO\/build$/;"	m
+CMAKE_COMMAND	build/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_COMMAND	build/example/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_COMMAND	build/lib/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_COMMAND	build/src/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_SOURCE_DIR	build/Makefile	/^CMAKE_SOURCE_DIR = \/home\/xduser\/LiHuan\/SLICO$/;"	m
+CMAKE_SOURCE_DIR	build/example/Makefile	/^CMAKE_SOURCE_DIR = \/home\/xduser\/LiHuan\/SLICO$/;"	m
+CMAKE_SOURCE_DIR	build/lib/Makefile	/^CMAKE_SOURCE_DIR = \/home\/xduser\/LiHuan\/SLICO$/;"	m
+CMAKE_SOURCE_DIR	build/src/Makefile	/^CMAKE_SOURCE_DIR = \/home\/xduser\/LiHuan\/SLICO$/;"	m
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	10;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	13;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	16;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	19;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	22;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	25;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	28;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	32;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	34;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	36;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	40;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	43;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	46;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	49;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	52;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	55;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	58;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	61;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	66;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	77;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	80;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	86;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	89;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	92;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	12;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	15;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	18;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	21;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	24;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	27;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	30;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	34;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	36;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	38;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	42;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	45;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	48;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	51;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	54;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	57;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	60;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	65;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	68;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	74;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	77;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	80;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	9;"	d	file:
+C_ARITH_CODING_SUPPORTED	include/jmorecfg.h	297;"	d
+C_MAX_BLOCKS_IN_MCU	include/jpeglib.h	64;"	d
+C_MULTISCAN_FILES_SUPPORTED	include/jmorecfg.h	298;"	d
+C_PROGRESSIVE_SUPPORTED	include/jmorecfg.h	299;"	d
+DCTSIZE	include/jpeglib.h	50;"	d
+DCTSIZE2	include/jpeglib.h	51;"	d
+DCT_FLOAT_SUPPORTED	include/jmorecfg.h	293;"	d
+DCT_IFAST_SUPPORTED	include/jmorecfg.h	292;"	d
+DCT_ISLOW_SUPPORTED	include/jmorecfg.h	291;"	d
+DCT_SCALING_SUPPORTED	include/jmorecfg.h	300;"	d
+DCT_h_scaled_size	include/jpeglib.h	/^  int DCT_h_scaled_size;$/;"	m	struct:__anon5
+DCT_v_scaled_size	include/jpeglib.h	/^  int DCT_v_scaled_size;$/;"	m	struct:__anon5
+D_ARITH_CODING_SUPPORTED	include/jmorecfg.h	314;"	d
+D_MAX_BLOCKS_IN_MCU	include/jpeglib.h	66;"	d
+D_MULTISCAN_FILES_SUPPORTED	include/jmorecfg.h	315;"	d
+D_PROGRESSIVE_SUPPORTED	include/jmorecfg.h	316;"	d
+DetectLabEdges	src/SLIC.cpp	/^void SLIC::DetectLabEdges($/;"	f	class:SLIC
+DoRGBtoLABConversion	src/SLIC.cpp	/^void SLIC::DoRGBtoLABConversion($/;"	f	class:SLIC
+DrawContoursAroundSegments	src/SLIC.cpp	/^void SLIC::DrawContoursAroundSegments($/;"	f	class:SLIC
+DrawContoursAroundSegmentsTwoColors	src/SLIC.cpp	/^void SLIC::DrawContoursAroundSegmentsTwoColors($/;"	f	class:SLIC
+ENTROPY_OPT_SUPPORTED	include/jmorecfg.h	301;"	d
+ERREXIT	include/jerror.h	209;"	d
+ERREXIT1	include/jerror.h	212;"	d
+ERREXIT2	include/jerror.h	216;"	d
+ERREXIT3	include/jerror.h	221;"	d
+ERREXIT4	include/jerror.h	227;"	d
+ERREXIT6	include/jerror.h	234;"	d
+ERREXITS	include/jerror.h	243;"	d
+EXTERN	include/jmorecfg.h	197;"	d
+EnforceLabelConnectivity	src/SLIC.cpp	/^void SLIC::EnforceLabelConnectivity($/;"	f	class:SLIC
+FALSE	include/jmorecfg.h	/^typedef enum { FALSE = 0, TRUE = 1 } boolean;$/;"	e	enum:__anon1
+FALSE	include/jmorecfg.h	257;"	d
+FAR	include/jmorecfg.h	241;"	d
+FAR	include/jmorecfg.h	243;"	d
+FAST_FLOAT	include/jmorecfg.h	384;"	d
+FAST_FLOAT	include/jmorecfg.h	386;"	d
+GETJOCTET	include/jmorecfg.h	112;"	d
+GETJOCTET	include/jmorecfg.h	118;"	d
+GETJOCTET	include/jmorecfg.h	120;"	d
+GETJSAMPLE	include/jmorecfg.h	61;"	d
+GETJSAMPLE	include/jmorecfg.h	67;"	d
+GETJSAMPLE	include/jmorecfg.h	69;"	d
+GETJSAMPLE	include/jmorecfg.h	86;"	d
+GIF_SUPPORTED	include/jconfig.h	42;"	d
+GLOBAL	include/jmorecfg.h	195;"	d
+GetLABXYSeeds_ForGivenK	src/SLIC.cpp	/^void SLIC::GetLABXYSeeds_ForGivenK($/;"	f	class:SLIC
+GetLABXYSeeds_ForGivenStepSize	src/SLIC.cpp	/^void SLIC::GetLABXYSeeds_ForGivenStepSize($/;"	f	class:SLIC
+HAVE_BOOLEAN	include/jconfig.h	26;"	d
+HAVE_LOCALE_H	include/jconfig.h	13;"	d
+HAVE_PROTOTYPES	include/jconfig.h	5;"	d
+HAVE_STDDEF_H	include/jconfig.h	11;"	d
+HAVE_STDLIB_H	include/jconfig.h	12;"	d
+HAVE_UNSIGNED_CHAR	include/jconfig.h	6;"	d
+HAVE_UNSIGNED_SHORT	include/jconfig.h	7;"	d
+IDCT_SCALING_SUPPORTED	include/jmorecfg.h	317;"	d
+ID_VOID_MAIN	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	6;"	d	file:
+INLINE	include/jconfig.h	32;"	d
+INLINE	include/jmorecfg.h	356;"	d
+INLINE	include/jmorecfg.h	359;"	d
+INPUT_SMOOTHING_SUPPORTED	include/jmorecfg.h	310;"	d
+INT16	include/jmorecfg.h	/^typedef short INT16;$/;"	t
+INT32	include/jmorecfg.h	/^typedef long INT32;$/;"	t
+JBLOCK	include/jpeglib.h	/^typedef JCOEF JBLOCK[DCTSIZE2];	\/* one block of coefficients *\/$/;"	t
+JBLOCKARRAY	include/jpeglib.h	/^typedef JBLOCKROW *JBLOCKARRAY;		\/* a 2-D array of coefficient blocks *\/$/;"	t
+JBLOCKIMAGE	include/jpeglib.h	/^typedef JBLOCKARRAY *JBLOCKIMAGE;	\/* a 3-D array of coefficient blocks *\/$/;"	t
+JBLOCKROW	include/jpeglib.h	/^typedef JBLOCK FAR *JBLOCKROW;	\/* pointer to one row of coefficient blocks *\/$/;"	t
+JCOEF	include/jmorecfg.h	/^typedef short JCOEF;$/;"	t
+JCOEFPTR	include/jpeglib.h	/^typedef JCOEF FAR *JCOEFPTR;	\/* useful in a couple of places *\/$/;"	t
+JCS_CMYK	include/jpeglib.h	/^	JCS_CMYK,		\/* C\/M\/Y\/K *\/$/;"	e	enum:__anon7
+JCS_GRAYSCALE	include/jpeglib.h	/^	JCS_GRAYSCALE,		\/* monochrome *\/$/;"	e	enum:__anon7
+JCS_RGB	include/jpeglib.h	/^	JCS_RGB,		\/* red\/green\/blue *\/$/;"	e	enum:__anon7
+JCS_UNKNOWN	include/jpeglib.h	/^	JCS_UNKNOWN,		\/* error\/unspecified *\/$/;"	e	enum:__anon7
+JCS_YCCK	include/jpeglib.h	/^	JCS_YCCK		\/* Y\/Cb\/Cr\/K *\/$/;"	e	enum:__anon7
+JCS_YCbCr	include/jpeglib.h	/^	JCS_YCbCr,		\/* Y\/Cb\/Cr (also known as YUV) *\/$/;"	e	enum:__anon7
+JCT_NONE	include/jpeglib.h	/^	JCT_NONE           = 0,$/;"	e	enum:__anon8
+JCT_SUBTRACT_GREEN	include/jpeglib.h	/^	JCT_SUBTRACT_GREEN = 1$/;"	e	enum:__anon8
+JDCT_DEFAULT	include/jpeglib.h	240;"	d
+JDCT_FASTEST	include/jpeglib.h	243;"	d
+JDCT_FLOAT	include/jpeglib.h	/^	JDCT_FLOAT		\/* floating-point: accurate, fast on fast HW *\/$/;"	e	enum:__anon9
+JDCT_IFAST	include/jpeglib.h	/^	JDCT_IFAST,		\/* faster, less accurate integer method *\/$/;"	e	enum:__anon9
+JDCT_ISLOW	include/jpeglib.h	/^	JDCT_ISLOW,		\/* slow but accurate integer algorithm *\/$/;"	e	enum:__anon9
+JDIMENSION	include/jmorecfg.h	/^typedef unsigned int JDIMENSION;$/;"	t
+JDITHER_FS	include/jpeglib.h	/^	JDITHER_FS		\/* Floyd-Steinberg error diffusion dither *\/$/;"	e	enum:__anon10
+JDITHER_NONE	include/jpeglib.h	/^	JDITHER_NONE,		\/* no dithering *\/$/;"	e	enum:__anon10
+JDITHER_ORDERED	include/jpeglib.h	/^	JDITHER_ORDERED,	\/* simple ordered dither *\/$/;"	e	enum:__anon10
+JERROR_H	include/jerror.h	203;"	d
+JFIF_major_version	include/jpeglib.h	/^  UINT8 JFIF_major_version;	\/* JFIF version number *\/$/;"	m	struct:jpeg_decompress_struct
+JFIF_major_version	include/jpeglib.h	/^  UINT8 JFIF_major_version;	\/* What to write for the JFIF version number *\/$/;"	m	struct:jpeg_compress_struct
+JFIF_minor_version	include/jpeglib.h	/^  UINT8 JFIF_minor_version;$/;"	m	struct:jpeg_compress_struct
+JFIF_minor_version	include/jpeglib.h	/^  UINT8 JFIF_minor_version;$/;"	m	struct:jpeg_decompress_struct
+JHUFF_TBL	include/jpeglib.h	/^} JHUFF_TBL;$/;"	t	typeref:struct:__anon4
+JMAKE_ENUM_LIST	include/jerror.h	195;"	d
+JMAKE_ENUM_LIST	include/jerror.h	25;"	d
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_BAD_ALIGN_TYPE, "ALIGN_TYPE is wrong, please fix")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_BAD_ALLOC_CHUNK, "MAX_ALLOC_CHUNK is wrong, please fix")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_BAD_BUFFER_MODE, "Bogus buffer control mode")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_BAD_COMPONENT_ID, "Invalid component ID %d in SOS")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_BAD_CROP_SPEC, "Invalid crop request")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_BAD_DCTSIZE, "DCT scaled block size %dx%d not supported")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_BAD_DCT_COEF, "DCT coefficient out of range")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_BAD_DROP_SAMPLING,$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_BAD_HUFF_TABLE, "Bogus Huffman table definition")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_BAD_IN_COLORSPACE, "Bogus input colorspace")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_BAD_J_COLORSPACE, "Bogus JPEG colorspace")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_BAD_LENGTH, "Bogus marker length")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_BAD_LIB_VERSION,$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_BAD_MCU_SIZE, "Sampling factors too large for interleaved scan")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_BAD_POOL_ID, "Invalid memory pool code %d")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_BAD_PRECISION, "Unsupported JPEG data precision %d")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_BAD_PROGRESSION,$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_BAD_PROG_SCRIPT,$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_BAD_SAMPLING, "Bogus sampling factors")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_BAD_SCAN_SCRIPT, "Invalid scan script at entry %d")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_BAD_STATE, "Improper call to JPEG library in state %d")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_BAD_STRUCT_SIZE,$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_BAD_VIRTUAL_ACCESS, "Bogus virtual array access")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_BUFFER_SIZE, "Buffer passed to JPEG library is too small")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_CANT_SUSPEND, "Suspension not allowed here")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_CCIR601_NOTIMPL, "CCIR601 sampling not implemented yet")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_COMPONENT_COUNT, "Too many color components: %d, max %d")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_CONVERSION_NOTIMPL, "Unsupported color conversion request")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_DAC_INDEX, "Bogus DAC index %d")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_DAC_VALUE, "Bogus DAC value 0x%x")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_DHT_INDEX, "Bogus DHT index %d")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_DQT_INDEX, "Bogus DQT index %d")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_EMPTY_IMAGE, "Empty JPEG image (DNL not supported)")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_EMS_READ, "Read from EMS failed")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_EMS_WRITE, "Write to EMS failed")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_EOI_EXPECTED, "Didn't expect more than one scan")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_FILE_READ, "Input file read error")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_FILE_WRITE, "Output file write error --- out of disk space?")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_FRACT_SAMPLE_NOTIMPL, "Fractional sampling not implemented yet")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_HUFF_CLEN_OVERFLOW, "Huffman code size table overflow")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_HUFF_MISSING_CODE, "Missing Huffman code table entry")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_IMAGE_TOO_BIG, "Maximum supported image dimension is %u pixels")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_INPUT_EMPTY, "Empty input file")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_INPUT_EOF, "Premature end of input file")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_MISMATCHED_QUANT_TABLE,$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_MISSING_DATA, "Scan script does not transmit all data")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_MODE_CHANGE, "Invalid color quantization mode change")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_NOTIMPL, "Not implemented yet")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_NOT_COMPILED, "Requested feature was omitted at compile time")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_NO_ARITH_TABLE, "Arithmetic table 0x%02x was not defined")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_NO_BACKING_STORE, "Backing store not supported")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_NO_HUFF_TABLE, "Huffman table 0x%02x was not defined")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_NO_IMAGE, "JPEG datastream contains no image")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_NO_QUANT_TABLE, "Quantization table 0x%02x was not defined")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_NO_SOI, "Not a JPEG file: starts with 0x%02x 0x%02x")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_OUT_OF_MEMORY, "Insufficient memory (case %d)")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_QUANT_COMPONENTS,$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_QUANT_FEW_COLORS, "Cannot quantize to fewer than %d colors")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_QUANT_MANY_COLORS, "Cannot quantize to more than %d colors")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_SOF_BEFORE, "Invalid JPEG file structure: %s before SOF")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_SOF_DUPLICATE, "Invalid JPEG file structure: two SOF markers")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_SOF_NO_SOS, "Invalid JPEG file structure: missing SOS marker")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_SOF_UNSUPPORTED, "Unsupported JPEG process: SOF type 0x%02x")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_SOI_DUPLICATE, "Invalid JPEG file structure: two SOI markers")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_TFILE_CREATE, "Failed to create temporary file %s")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_TFILE_READ, "Read failed on temporary file")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_TFILE_SEEK, "Seek failed on temporary file")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_TFILE_WRITE,$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_TOO_LITTLE_DATA, "Application transferred too few scanlines")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_UNKNOWN_MARKER, "Unsupported marker type 0x%02x")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_VIRTUAL_BUG, "Virtual array controller messed up")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_WIDTH_OVERFLOW, "Image too wide for this implementation")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_XMS_READ, "Read from XMS failed")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JERR_XMS_WRITE, "Write to XMS failed")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JMSG_COPYRIGHT, JCOPYRIGHT)$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JMSG_NOMESSAGE, "Bogus message code %d") \/* Must be first entry! *\/$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JMSG_VERSION, JVERSION)$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JTRC_16BIT_TABLES,$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JTRC_ADOBE,$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JTRC_APP0, "Unknown APP0 marker (not JFIF), length %u")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JTRC_APP14, "Unknown APP14 marker (not Adobe), length %u")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JTRC_DAC, "Define Arithmetic Table 0x%02x: 0x%02x")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JTRC_DHT, "Define Huffman Table 0x%02x")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JTRC_DQT, "Define Quantization Table %d  precision %d")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JTRC_DRI, "Define Restart Interval %u")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JTRC_EMS_CLOSE, "Freed EMS handle %u")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JTRC_EMS_OPEN, "Obtained EMS handle %u")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JTRC_EOI, "End Of Image")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JTRC_HUFFBITS, "        %3d %3d %3d %3d %3d %3d %3d %3d")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JTRC_JFIF, "JFIF APP0 marker: version %d.%02d, density %dx%d  %d")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JTRC_JFIF_BADTHUMBNAILSIZE,$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JTRC_JFIF_EXTENSION,$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JTRC_JFIF_THUMBNAIL, "    with %d x %d thumbnail image")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JTRC_MISC_MARKER, "Miscellaneous marker 0x%02x, length %u")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JTRC_PARMLESS_MARKER, "Unexpected marker 0x%02x")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JTRC_QUANTVALS, "        %4u %4u %4u %4u %4u %4u %4u %4u")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JTRC_QUANT_3_NCOLORS, "Quantizing to %d = %d*%d*%d colors")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JTRC_QUANT_NCOLORS, "Quantizing to %d colors")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JTRC_QUANT_SELECTED, "Selected %d colors for quantization")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JTRC_RECOVERY_ACTION, "At marker 0x%02x, recovery action %d")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JTRC_RST, "RST%d")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JTRC_SMOOTH_NOTIMPL,$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JTRC_SOF, "Start Of Frame 0x%02x: width=%u, height=%u, components=%d")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JTRC_SOF_COMPONENT, "    Component %d: %dhx%dv q=%d")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JTRC_SOI, "Start of Image")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JTRC_SOS, "Start Of Scan: %d components")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JTRC_SOS_COMPONENT, "    Component %d: dc=%d ac=%d")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JTRC_SOS_PARAMS, "  Ss=%d, Se=%d, Ah=%d, Al=%d")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JTRC_TFILE_CLOSE, "Closed temporary file %s")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JTRC_TFILE_OPEN, "Opened temporary file %s")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JTRC_THUMB_JPEG,$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JTRC_THUMB_PALETTE,$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JTRC_THUMB_RGB,$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JTRC_UNKNOWN_IDS,$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JTRC_XMS_CLOSE, "Freed XMS handle %u")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JTRC_XMS_OPEN, "Obtained XMS handle %u")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JWRN_ADOBE_XFORM, "Unknown Adobe color transform code %d")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JWRN_ARITH_BAD_CODE, "Corrupt JPEG data: bad arithmetic code")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JWRN_BOGUS_PROGRESSION,$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JWRN_EXTRANEOUS_DATA,$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JWRN_HIT_MARKER, "Corrupt JPEG data: premature end of data segment")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JWRN_HUFF_BAD_CODE, "Corrupt JPEG data: bad Huffman code")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JWRN_JFIF_MAJOR, "Warning: unknown JFIF revision number %d.%02d")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JWRN_JPEG_EOF, "Premature end of JPEG file")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JWRN_MUST_RESYNC,$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JWRN_NOT_SEQUENTIAL, "Invalid SOS parameters for sequential JPEG")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	/^JMESSAGE(JWRN_TOO_MUCH_DATA, "Application transferred too many scanlines")$/;"	e	enum:__anon2
+JMESSAGE	include/jerror.h	199;"	d
+JMESSAGE	include/jerror.h	28;"	d
+JMESSAGE	include/jerror.h	36;"	d
+JMETHOD	include/jmorecfg.h	207;"	d
+JMETHOD	include/jmorecfg.h	209;"	d
+JMETHOD	include/jpeglib.h	/^typedef JMETHOD(boolean, jpeg_marker_parser_method, (j_decompress_ptr cinfo));$/;"	t
+JMSG_LASTMSGCODE	include/jerror.h	/^  JMSG_LASTMSGCODE$/;"	e	enum:__anon2
+JMSG_LENGTH_MAX	include/jpeglib.h	704;"	d
+JMSG_STR_PARM_MAX	include/jpeglib.h	712;"	d
+JOCTET	include/jmorecfg.h	/^typedef char JOCTET;$/;"	t
+JOCTET	include/jmorecfg.h	/^typedef unsigned char JOCTET;$/;"	t
+JPEGLIB_H	include/jpeglib.h	15;"	d
+JPEG_APP0	include/jpeglib.h	1118;"	d
+JPEG_COM	include/jpeglib.h	1119;"	d
+JPEG_EOI	include/jpeglib.h	1117;"	d
+JPEG_HEADER_OK	include/jpeglib.h	1036;"	d
+JPEG_HEADER_TABLES_ONLY	include/jpeglib.h	1037;"	d
+JPEG_INTERNAL_OPTIONS	include/jmorecfg.h	275;"	d
+JPEG_LIB_VERSION	include/jpeglib.h	40;"	d
+JPEG_LIB_VERSION_MAJOR	include/jpeglib.h	41;"	d
+JPEG_LIB_VERSION_MINOR	include/jpeglib.h	42;"	d
+JPEG_MAX_DIMENSION	include/jmorecfg.h	180;"	d
+JPEG_QUALITY	example/j2seg.cpp	15;"	d	file:
+JPEG_REACHED_EOI	include/jpeglib.h	1067;"	d
+JPEG_REACHED_SOS	include/jpeglib.h	1066;"	d
+JPEG_ROW_COMPLETED	include/jpeglib.h	1068;"	d
+JPEG_RST0	include/jpeglib.h	1116;"	d
+JPEG_SCAN_COMPLETED	include/jpeglib.h	1069;"	d
+JPEG_SUSPENDED	include/jpeglib.h	1035;"	d
+JPOOL_IMAGE	include/jpeglib.h	801;"	d
+JPOOL_NUMPOOLS	include/jpeglib.h	802;"	d
+JPOOL_PERMANENT	include/jpeglib.h	800;"	d
+JPP	include/jpeglib.h	870;"	d
+JPP	include/jpeglib.h	872;"	d
+JQUANT_TBL	include/jpeglib.h	/^} JQUANT_TBL;$/;"	t	typeref:struct:__anon3
+JSAMPARRAY	include/jpeglib.h	/^typedef JSAMPROW *JSAMPARRAY;	\/* ptr to some rows (a 2-D sample array) *\/$/;"	t
+JSAMPIMAGE	include/jpeglib.h	/^typedef JSAMPARRAY *JSAMPIMAGE;	\/* a 3-D sample array: top index is color *\/$/;"	t
+JSAMPLE	include/jmorecfg.h	/^typedef char JSAMPLE;$/;"	t
+JSAMPLE	include/jmorecfg.h	/^typedef short JSAMPLE;$/;"	t
+JSAMPLE	include/jmorecfg.h	/^typedef unsigned char JSAMPLE;$/;"	t
+JSAMPROW	include/jpeglib.h	/^typedef JSAMPLE FAR *JSAMPROW;	\/* ptr to one image row of pixel samples. *\/$/;"	t
+J_COLOR_SPACE	include/jpeglib.h	/^} J_COLOR_SPACE;$/;"	t	typeref:enum:__anon7
+J_COLOR_TRANSFORM	include/jpeglib.h	/^} J_COLOR_TRANSFORM;$/;"	t	typeref:enum:__anon8
+J_DCT_METHOD	include/jpeglib.h	/^} J_DCT_METHOD;$/;"	t	typeref:enum:__anon9
+J_DITHER_MODE	include/jpeglib.h	/^} J_DITHER_MODE;$/;"	t	typeref:enum:__anon10
+J_MESSAGE_CODE	include/jerror.h	/^} J_MESSAGE_CODE;$/;"	t	typeref:enum:__anon2
+LOCAL	include/jmorecfg.h	193;"	d
+MAKESTMT	include/jerror.h	248;"	d
+MAXJSAMPLE	include/jmorecfg.h	74;"	d
+MAXJSAMPLE	include/jmorecfg.h	88;"	d
+MAX_COMPONENTS	include/jmorecfg.h	36;"	d
+MAX_COMPS_IN_SCAN	include/jpeglib.h	55;"	d
+MAX_SAMP_FACTOR	include/jpeglib.h	56;"	d
+MCU_blocks	include/jpeglib.h	/^  int MCU_blocks;		\/* MCU_width * MCU_height *\/$/;"	m	struct:__anon5
+MCU_height	include/jpeglib.h	/^  int MCU_height;		\/* number of blocks per MCU, vertically *\/$/;"	m	struct:__anon5
+MCU_membership	include/jpeglib.h	/^  int MCU_membership[C_MAX_BLOCKS_IN_MCU];$/;"	m	struct:jpeg_compress_struct
+MCU_membership	include/jpeglib.h	/^  int MCU_membership[D_MAX_BLOCKS_IN_MCU];$/;"	m	struct:jpeg_decompress_struct
+MCU_rows_in_scan	include/jpeglib.h	/^  JDIMENSION MCU_rows_in_scan;	\/* # of MCU rows in the image *\/$/;"	m	struct:jpeg_compress_struct
+MCU_rows_in_scan	include/jpeglib.h	/^  JDIMENSION MCU_rows_in_scan;	\/* # of MCU rows in the image *\/$/;"	m	struct:jpeg_decompress_struct
+MCU_sample_width	include/jpeglib.h	/^  int MCU_sample_width;	\/* MCU width in samples: MCU_width * DCT_h_scaled_size *\/$/;"	m	struct:__anon5
+MCU_width	include/jpeglib.h	/^  int MCU_width;		\/* number of blocks per MCU, horizontally *\/$/;"	m	struct:__anon5
+MCUs_per_row	include/jpeglib.h	/^  JDIMENSION MCUs_per_row;	\/* # of MCUs across the image *\/$/;"	m	struct:jpeg_compress_struct
+MCUs_per_row	include/jpeglib.h	/^  JDIMENSION MCUs_per_row;	\/* # of MCUs across the image *\/$/;"	m	struct:jpeg_decompress_struct
+METHODDEF	include/jmorecfg.h	191;"	d
+MULTIPLIER	include/jmorecfg.h	370;"	d
+NUM_ARITH_TBLS	include/jpeglib.h	54;"	d
+NUM_HUFF_TBLS	include/jpeglib.h	53;"	d
+NUM_QUANT_TBLS	include/jpeglib.h	52;"	d
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	104;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	107;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	110;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	113;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	116;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	119;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	122;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	125;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	128;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	131;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	134;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	137;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	140;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	146;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	149;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	152;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	155;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	158;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	161;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	164;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	167;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	170;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	173;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	176;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	179;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	182;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	101;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	104;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	107;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	110;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	113;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	116;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	119;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	122;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	125;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	128;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	134;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	137;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	140;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	143;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	146;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	149;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	152;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	155;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	158;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	161;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	164;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	167;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	170;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	92;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	95;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	98;"	d	file:
+PPM_SUPPORTED	include/jconfig.h	43;"	d
+PUT_2B	example/j2seg.cpp	7;"	d	file:
+PUT_4B	example/j2seg.cpp	10;"	d	file:
+PerformSLICO_ForGivenK	src/SLIC.cpp	/^void SLIC::PerformSLICO_ForGivenK($/;"	f	class:SLIC
+PerformSLICO_ForGivenStepSize	src/SLIC.cpp	/^void SLIC::PerformSLICO_ForGivenStepSize($/;"	f	class:SLIC
+PerformSuperpixelSegmentation_VariableSandM	src/SLIC.cpp	/^void SLIC::PerformSuperpixelSegmentation_VariableSandM($/;"	f	class:SLIC
+PerturbSeeds	src/SLIC.cpp	/^void SLIC::PerturbSeeds($/;"	f	class:SLIC
+QUANT_1PASS_SUPPORTED	include/jmorecfg.h	322;"	d
+QUANT_2PASS_SUPPORTED	include/jmorecfg.h	323;"	d
+RGB2LAB	src/SLIC.cpp	/^void SLIC::RGB2LAB(const int& sR, const int& sG, const int& sB, double& lval, double& aval, double& bval)$/;"	f	class:SLIC
+RGB2XYZ	src/SLIC.cpp	/^void SLIC::RGB2XYZ($/;"	f	class:SLIC
+RGB_BLUE	include/jmorecfg.h	343;"	d
+RGB_GREEN	include/jmorecfg.h	342;"	d
+RGB_PIXELSIZE	include/jmorecfg.h	344;"	d
+RGB_RED	include/jmorecfg.h	341;"	d
+RM	build/Makefile	/^RM = \/usr\/bin\/cmake -E remove -f$/;"	m
+RM	build/example/Makefile	/^RM = \/usr\/bin\/cmake -E remove -f$/;"	m
+RM	build/lib/Makefile	/^RM = \/usr\/bin\/cmake -E remove -f$/;"	m
+RM	build/src/Makefile	/^RM = \/usr\/bin\/cmake -E remove -f$/;"	m
+SAVE_MARKERS_SUPPORTED	include/jmorecfg.h	318;"	d
+SHELL	build/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	build/example/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	build/lib/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	build/src/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SLIC	include/SLIC.h	/^class SLIC  $/;"	c
+SLIC	src/SLIC.cpp	/^SLIC::SLIC()$/;"	f	class:SLIC
+SUFFIXES	build/Makefile	/^SUFFIXES =$/;"	m
+SUFFIXES	build/example/Makefile	/^SUFFIXES =$/;"	m
+SUFFIXES	build/lib/Makefile	/^SUFFIXES =$/;"	m
+SUFFIXES	build/src/Makefile	/^SUFFIXES =$/;"	m
+SaveSuperpixelLabels	src/SLIC.cpp	/^void SLIC::SaveSuperpixelLabels($/;"	f	class:SLIC
+Se	include/jpeglib.h	/^  int Ss, Se, Ah, Al;		\/* progressive JPEG parameters for scan *\/$/;"	m	struct:jpeg_compress_struct
+Se	include/jpeglib.h	/^  int Ss, Se, Ah, Al;		\/* progressive JPEG parameters for scan *\/$/;"	m	struct:jpeg_decompress_struct
+Se	include/jpeglib.h	/^  int Ss, Se;			\/* progressive JPEG spectral selection parms *\/$/;"	m	struct:__anon6
+Ss	include/jpeglib.h	/^  int Ss, Se, Ah, Al;		\/* progressive JPEG parameters for scan *\/$/;"	m	struct:jpeg_compress_struct
+Ss	include/jpeglib.h	/^  int Ss, Se, Ah, Al;		\/* progressive JPEG parameters for scan *\/$/;"	m	struct:jpeg_decompress_struct
+Ss	include/jpeglib.h	/^  int Ss, Se;			\/* progressive JPEG spectral selection parms *\/$/;"	m	struct:__anon6
+TARGA_SUPPORTED	include/jconfig.h	45;"	d
+TRACEMS	include/jerror.h	265;"	d
+TRACEMS1	include/jerror.h	268;"	d
+TRACEMS2	include/jerror.h	272;"	d
+TRACEMS3	include/jerror.h	277;"	d
+TRACEMS4	include/jerror.h	282;"	d
+TRACEMS5	include/jerror.h	287;"	d
+TRACEMS8	include/jerror.h	293;"	d
+TRACEMSS	include/jerror.h	299;"	d
+TRUE	include/jmorecfg.h	/^typedef enum { FALSE = 0, TRUE = 1 } boolean;$/;"	e	enum:__anon1
+TRUE	include/jmorecfg.h	260;"	d
+UINT16	include/jmorecfg.h	/^typedef unsigned int UINT16;$/;"	t
+UINT16	include/jmorecfg.h	/^typedef unsigned short UINT16;$/;"	t
+UINT8	include/jmorecfg.h	/^typedef char UINT8;$/;"	t
+UINT8	include/jmorecfg.h	/^typedef short UINT8;$/;"	t
+UINT8	include/jmorecfg.h	/^typedef unsigned char UINT8;$/;"	t
+UPSAMPLE_MERGING_SUPPORTED	include/jmorecfg.h	321;"	d
+UPSAMPLE_SCALING_SUPPORTED	include/jmorecfg.h	320;"	d
+WARNMS	include/jerror.h	251;"	d
+WARNMS1	include/jerror.h	254;"	d
+WARNMS2	include/jerror.h	258;"	d
+X_density	include/jpeglib.h	/^  UINT16 X_density;		\/* Horizontal pixel density *\/$/;"	m	struct:jpeg_compress_struct
+X_density	include/jpeglib.h	/^  UINT16 X_density;		\/* Horizontal pixel density *\/$/;"	m	struct:jpeg_decompress_struct
+Y_density	include/jpeglib.h	/^  UINT16 Y_density;		\/* Vertical pixel density *\/$/;"	m	struct:jpeg_compress_struct
+Y_density	include/jpeglib.h	/^  UINT16 Y_density;		\/* Vertical pixel density *\/$/;"	m	struct:jpeg_decompress_struct
+_MAX_FNAME	src/SLIC.cpp	32;"	d	file:
+_SLIC_H_INCLUDED_	include/SLIC.h	25;"	d
+_split_whole_name	src/path_split.cpp	/^static void _split_whole_name( char *whole_name, char *fname, char *ext)$/;"	f	file:
+_splitpath	src/path_split.cpp	/^void _splitpath(const char *path, char *drive, char *dir, char *fname, char *ext)$/;"	f
+ac_huff_tbl_ptrs	include/jpeglib.h	/^  JHUFF_TBL * ac_huff_tbl_ptrs[NUM_HUFF_TBLS];$/;"	m	struct:jpeg_compress_struct
+ac_huff_tbl_ptrs	include/jpeglib.h	/^  JHUFF_TBL * ac_huff_tbl_ptrs[NUM_HUFF_TBLS];$/;"	m	struct:jpeg_decompress_struct
+ac_tbl_no	include/jpeglib.h	/^  int ac_tbl_no;		\/* AC entropy table selector (0..3) *\/$/;"	m	struct:__anon5
+actual_number_of_colors	include/jpeglib.h	/^  int actual_number_of_colors;	\/* number of entries in use *\/$/;"	m	struct:jpeg_decompress_struct
+addon_message_table	include/jpeglib.h	/^  const char * const * addon_message_table; \/* Non-library errors *\/$/;"	m	struct:jpeg_error_mgr
+arith_ac_K	include/jpeglib.h	/^  UINT8 arith_ac_K[NUM_ARITH_TBLS]; \/* Kx values for AC arith-coding tables *\/$/;"	m	struct:jpeg_compress_struct
+arith_ac_K	include/jpeglib.h	/^  UINT8 arith_ac_K[NUM_ARITH_TBLS]; \/* Kx values for AC arith-coding tables *\/$/;"	m	struct:jpeg_decompress_struct
+arith_code	include/jpeglib.h	/^  boolean arith_code;		\/* TRUE=arithmetic coding, FALSE=Huffman *\/$/;"	m	struct:jpeg_compress_struct
+arith_code	include/jpeglib.h	/^  boolean arith_code;		\/* TRUE=arithmetic coding, FALSE=Huffman *\/$/;"	m	struct:jpeg_decompress_struct
+arith_dc_L	include/jpeglib.h	/^  UINT8 arith_dc_L[NUM_ARITH_TBLS]; \/* L values for DC arith-coding tables *\/$/;"	m	struct:jpeg_compress_struct
+arith_dc_L	include/jpeglib.h	/^  UINT8 arith_dc_L[NUM_ARITH_TBLS]; \/* L values for DC arith-coding tables *\/$/;"	m	struct:jpeg_decompress_struct
+arith_dc_U	include/jpeglib.h	/^  UINT8 arith_dc_U[NUM_ARITH_TBLS]; \/* U values for DC arith-coding tables *\/$/;"	m	struct:jpeg_compress_struct
+arith_dc_U	include/jpeglib.h	/^  UINT8 arith_dc_U[NUM_ARITH_TBLS]; \/* U values for DC arith-coding tables *\/$/;"	m	struct:jpeg_decompress_struct
+bits	include/jpeglib.h	/^  UINT8 bits[17];		\/* bits[k] = # of symbols with codes of *\/$/;"	m	struct:__anon4
+block_size	include/jpeglib.h	/^  int block_size;		\/* the basic DCT block size: 1..16 *\/$/;"	m	struct:jpeg_compress_struct
+block_size	include/jpeglib.h	/^  int block_size;		\/* the basic DCT block size: 1..16 *\/$/;"	m	struct:jpeg_decompress_struct
+blocks_in_MCU	include/jpeglib.h	/^  int blocks_in_MCU;		\/* # of DCT blocks per MCU *\/$/;"	m	struct:jpeg_compress_struct
+blocks_in_MCU	include/jpeglib.h	/^  int blocks_in_MCU;		\/* # of DCT blocks per MCU *\/$/;"	m	struct:jpeg_decompress_struct
+boolean	include/jconfig.h	/^typedef unsigned char boolean;$/;"	t
+boolean	include/jmorecfg.h	/^typedef enum { FALSE = 0, TRUE = 1 } boolean;$/;"	t	typeref:enum:__anon1
+buffered_image	include/jpeglib.h	/^  boolean buffered_image;	\/* TRUE=multiple output passes *\/$/;"	m	struct:jpeg_decompress_struct
+bytes_in_buffer	include/jpeglib.h	/^  size_t bytes_in_buffer;	\/* # of bytes remaining in buffer *\/$/;"	m	struct:jpeg_source_mgr
+cconvert	include/jpeglib.h	/^  struct jpeg_color_converter * cconvert;$/;"	m	struct:jpeg_compress_struct	typeref:struct:jpeg_compress_struct::jpeg_color_converter
+cconvert	include/jpeglib.h	/^  struct jpeg_color_deconverter * cconvert;$/;"	m	struct:jpeg_decompress_struct	typeref:struct:jpeg_decompress_struct::jpeg_color_deconverter
+coef	include/jpeglib.h	/^  struct jpeg_c_coef_controller * coef;$/;"	m	struct:jpeg_compress_struct	typeref:struct:jpeg_compress_struct::jpeg_c_coef_controller
+coef	include/jpeglib.h	/^  struct jpeg_d_coef_controller * coef;$/;"	m	struct:jpeg_decompress_struct	typeref:struct:jpeg_decompress_struct::jpeg_d_coef_controller
+coef_bits	include/jpeglib.h	/^  int (*coef_bits)[DCTSIZE2];	\/* -1 or current Al value for each coef *\/$/;"	m	struct:jpeg_decompress_struct
+color_transform	include/jpeglib.h	/^  J_COLOR_TRANSFORM color_transform;$/;"	m	struct:jpeg_compress_struct
+color_transform	include/jpeglib.h	/^  J_COLOR_TRANSFORM color_transform;$/;"	m	struct:jpeg_decompress_struct
+colormap	include/jpeglib.h	/^  JSAMPARRAY colormap;		\/* The color map as a 2-D pixel array *\/$/;"	m	struct:jpeg_decompress_struct
+comp_info	include/jpeglib.h	/^  jpeg_component_info * comp_info;$/;"	m	struct:jpeg_compress_struct
+comp_info	include/jpeglib.h	/^  jpeg_component_info * comp_info;$/;"	m	struct:jpeg_decompress_struct
+completed_passes	include/jpeglib.h	/^  int completed_passes;		\/* passes completed so far *\/$/;"	m	struct:jpeg_progress_mgr
+component_id	include/jpeglib.h	/^  int component_id;		\/* identifier for this component (0..255) *\/$/;"	m	struct:__anon5
+component_index	include/jpeglib.h	/^  int component_index;		\/* its index in SOF or cinfo->comp_info[] *\/$/;"	m	struct:__anon5
+component_index	include/jpeglib.h	/^  int component_index[MAX_COMPS_IN_SCAN]; \/* their SOF\/comp_info[] indexes *\/$/;"	m	struct:__anon6
+component_needed	include/jpeglib.h	/^  boolean component_needed;	\/* do we need the value of this component? *\/$/;"	m	struct:__anon5
+comps_in_scan	include/jpeglib.h	/^  int comps_in_scan;		\/* # of JPEG components in this scan *\/$/;"	m	struct:jpeg_compress_struct
+comps_in_scan	include/jpeglib.h	/^  int comps_in_scan;		\/* # of JPEG components in this scan *\/$/;"	m	struct:jpeg_decompress_struct
+comps_in_scan	include/jpeglib.h	/^  int comps_in_scan;		\/* number of components encoded in this scan *\/$/;"	m	struct:__anon6
+cquantize	include/jpeglib.h	/^  struct jpeg_color_quantizer * cquantize;$/;"	m	struct:jpeg_decompress_struct	typeref:struct:jpeg_decompress_struct::jpeg_color_quantizer
+cur_comp_info	include/jpeglib.h	/^  jpeg_component_info * cur_comp_info[MAX_COMPS_IN_SCAN];$/;"	m	struct:jpeg_compress_struct
+cur_comp_info	include/jpeglib.h	/^  jpeg_component_info * cur_comp_info[MAX_COMPS_IN_SCAN];$/;"	m	struct:jpeg_decompress_struct
+data	include/jpeglib.h	/^  JOCTET FAR * data;		\/* the data contained in the marker *\/$/;"	m	struct:jpeg_marker_struct
+data_length	include/jpeglib.h	/^  unsigned int data_length;	\/* # bytes of data saved at data[] *\/$/;"	m	struct:jpeg_marker_struct
+data_precision	include/jpeglib.h	/^  int data_precision;		\/* bits of precision in image data *\/$/;"	m	struct:jpeg_compress_struct
+data_precision	include/jpeglib.h	/^  int data_precision;		\/* bits of precision in image data *\/$/;"	m	struct:jpeg_decompress_struct
+dc_huff_tbl_ptrs	include/jpeglib.h	/^  JHUFF_TBL * dc_huff_tbl_ptrs[NUM_HUFF_TBLS];$/;"	m	struct:jpeg_compress_struct
+dc_huff_tbl_ptrs	include/jpeglib.h	/^  JHUFF_TBL * dc_huff_tbl_ptrs[NUM_HUFF_TBLS];$/;"	m	struct:jpeg_decompress_struct
+dc_tbl_no	include/jpeglib.h	/^  int dc_tbl_no;		\/* DC entropy table selector (0..3) *\/$/;"	m	struct:__anon5
+dct_method	include/jpeglib.h	/^  J_DCT_METHOD dct_method;	\/* DCT algorithm selector *\/$/;"	m	struct:jpeg_compress_struct
+dct_method	include/jpeglib.h	/^  J_DCT_METHOD dct_method;	\/* IDCT algorithm selector *\/$/;"	m	struct:jpeg_decompress_struct
+dct_table	include/jpeglib.h	/^  void * dct_table;$/;"	m	struct:__anon5
+density_unit	include/jpeglib.h	/^  UINT8 density_unit;		\/* JFIF code for pixel size units *\/$/;"	m	struct:jpeg_compress_struct
+density_unit	include/jpeglib.h	/^  UINT8 density_unit;		\/* JFIF code for pixel size units *\/$/;"	m	struct:jpeg_decompress_struct
+desired_number_of_colors	include/jpeglib.h	/^  int desired_number_of_colors;	\/* max # colors to use in created colormap *\/$/;"	m	struct:jpeg_decompress_struct
+dest	include/jpeglib.h	/^  struct jpeg_destination_mgr * dest;$/;"	m	struct:jpeg_compress_struct	typeref:struct:jpeg_compress_struct::jpeg_destination_mgr
+dither_mode	include/jpeglib.h	/^  J_DITHER_MODE dither_mode;	\/* type of color dithering to use *\/$/;"	m	struct:jpeg_decompress_struct
+do_block_smoothing	include/jpeglib.h	/^  boolean do_block_smoothing;	\/* TRUE=apply interblock smoothing *\/$/;"	m	struct:jpeg_decompress_struct
+do_fancy_downsampling	include/jpeglib.h	/^  boolean do_fancy_downsampling; \/* TRUE=apply fancy downsampling *\/$/;"	m	struct:jpeg_compress_struct
+do_fancy_upsampling	include/jpeglib.h	/^  boolean do_fancy_upsampling;	\/* TRUE=apply fancy upsampling *\/$/;"	m	struct:jpeg_decompress_struct
+downsample	include/jpeglib.h	/^  struct jpeg_downsampler * downsample;$/;"	m	struct:jpeg_compress_struct	typeref:struct:jpeg_compress_struct::jpeg_downsampler
+downsampled_height	include/jpeglib.h	/^  JDIMENSION downsampled_height; \/* actual height in samples *\/$/;"	m	struct:__anon5
+downsampled_width	include/jpeglib.h	/^  JDIMENSION downsampled_width;	 \/* actual width in samples *\/$/;"	m	struct:__anon5
+dummy	include/jpeglib.h	/^struct jpeg_c_coef_controller { long dummy; };$/;"	m	struct:jpeg_c_coef_controller
+dummy	include/jpeglib.h	/^struct jpeg_c_main_controller { long dummy; };$/;"	m	struct:jpeg_c_main_controller
+dummy	include/jpeglib.h	/^struct jpeg_c_prep_controller { long dummy; };$/;"	m	struct:jpeg_c_prep_controller
+dummy	include/jpeglib.h	/^struct jpeg_color_converter { long dummy; };$/;"	m	struct:jpeg_color_converter
+dummy	include/jpeglib.h	/^struct jpeg_color_deconverter { long dummy; };$/;"	m	struct:jpeg_color_deconverter
+dummy	include/jpeglib.h	/^struct jpeg_color_quantizer { long dummy; };$/;"	m	struct:jpeg_color_quantizer
+dummy	include/jpeglib.h	/^struct jpeg_comp_master { long dummy; };$/;"	m	struct:jpeg_comp_master
+dummy	include/jpeglib.h	/^struct jpeg_d_coef_controller { long dummy; };$/;"	m	struct:jpeg_d_coef_controller
+dummy	include/jpeglib.h	/^struct jpeg_d_main_controller { long dummy; };$/;"	m	struct:jpeg_d_main_controller
+dummy	include/jpeglib.h	/^struct jpeg_d_post_controller { long dummy; };$/;"	m	struct:jpeg_d_post_controller
+dummy	include/jpeglib.h	/^struct jpeg_decomp_master { long dummy; };$/;"	m	struct:jpeg_decomp_master
+dummy	include/jpeglib.h	/^struct jpeg_downsampler { long dummy; };$/;"	m	struct:jpeg_downsampler
+dummy	include/jpeglib.h	/^struct jpeg_entropy_decoder { long dummy; };$/;"	m	struct:jpeg_entropy_decoder
+dummy	include/jpeglib.h	/^struct jpeg_entropy_encoder { long dummy; };$/;"	m	struct:jpeg_entropy_encoder
+dummy	include/jpeglib.h	/^struct jpeg_forward_dct { long dummy; };$/;"	m	struct:jpeg_forward_dct
+dummy	include/jpeglib.h	/^struct jpeg_input_controller { long dummy; };$/;"	m	struct:jpeg_input_controller
+dummy	include/jpeglib.h	/^struct jpeg_inverse_dct { long dummy; };$/;"	m	struct:jpeg_inverse_dct
+dummy	include/jpeglib.h	/^struct jpeg_marker_reader { long dummy; };$/;"	m	struct:jpeg_marker_reader
+dummy	include/jpeglib.h	/^struct jpeg_marker_writer { long dummy; };$/;"	m	struct:jpeg_marker_writer
+dummy	include/jpeglib.h	/^struct jpeg_upsampler { long dummy; };$/;"	m	struct:jpeg_upsampler
+dummy	include/jpeglib.h	/^struct jvirt_barray_control { long dummy; };$/;"	m	struct:jvirt_barray_control
+dummy	include/jpeglib.h	/^struct jvirt_sarray_control { long dummy; };$/;"	m	struct:jvirt_sarray_control
+dx10	src/SLIC.cpp	/^const int dx10[10] = {-1,  0,  1,  0, -1,  1,  1, -1,  0, 0};$/;"	v
+dx4	src/SLIC.cpp	/^const int dx4[4] = {-1,  0,  1,  0};$/;"	v
+dy10	src/SLIC.cpp	/^const int dy10[10] = { 0, -1,  0,  1, -1, -1,  1,  1,  0, 0};$/;"	v
+dy4	src/SLIC.cpp	/^const int dy4[4] = { 0, -1,  0,  1};$/;"	v
+dz10	src/SLIC.cpp	/^const int dz10[10] = { 0,  0,  0,  0,  0,  0,  0,  0, -1, 1};$/;"	v
+enable_1pass_quant	include/jpeglib.h	/^  boolean enable_1pass_quant;	\/* enable future use of 1-pass quantizer *\/$/;"	m	struct:jpeg_decompress_struct
+enable_2pass_quant	include/jpeglib.h	/^  boolean enable_2pass_quant;	\/* enable future use of 2-pass quantizer *\/$/;"	m	struct:jpeg_decompress_struct
+enable_external_quant	include/jpeglib.h	/^  boolean enable_external_quant;\/* enable future use of external colormap *\/$/;"	m	struct:jpeg_decompress_struct
+entropy	include/jpeglib.h	/^  struct jpeg_entropy_decoder * entropy;$/;"	m	struct:jpeg_decompress_struct	typeref:struct:jpeg_decompress_struct::jpeg_entropy_decoder
+entropy	include/jpeglib.h	/^  struct jpeg_entropy_encoder * entropy;$/;"	m	struct:jpeg_compress_struct	typeref:struct:jpeg_compress_struct::jpeg_entropy_encoder
+fdct	include/jpeglib.h	/^  struct jpeg_forward_dct * fdct;$/;"	m	struct:jpeg_compress_struct	typeref:struct:jpeg_compress_struct::jpeg_forward_dct
+first_addon_message	include/jpeglib.h	/^  int first_addon_message;	\/* code for first string in addon table *\/$/;"	m	struct:jpeg_error_mgr
+free_in_buffer	include/jpeglib.h	/^  size_t free_in_buffer;	\/* # of byte spaces remaining in buffer *\/$/;"	m	struct:jpeg_destination_mgr
+h_samp_factor	include/jpeglib.h	/^  int h_samp_factor;		\/* horizontal sampling factor (1..4) *\/$/;"	m	struct:__anon5
+height_in_blocks	include/jpeglib.h	/^  JDIMENSION height_in_blocks;$/;"	m	struct:__anon5
+huffval	include/jpeglib.h	/^  UINT8 huffval[256];		\/* The symbols, in order of incr code length *\/$/;"	m	struct:__anon4
+i	include/jpeglib.h	/^    int i[8];$/;"	m	union:jpeg_error_mgr::__anon11
+idct	include/jpeglib.h	/^  struct jpeg_inverse_dct * idct;$/;"	m	struct:jpeg_decompress_struct	typeref:struct:jpeg_decompress_struct::jpeg_inverse_dct
+image_height	include/jpeglib.h	/^  JDIMENSION image_height;	\/* input image height *\/$/;"	m	struct:jpeg_compress_struct
+image_height	include/jpeglib.h	/^  JDIMENSION image_height;	\/* nominal image height *\/$/;"	m	struct:jpeg_decompress_struct
+image_width	include/jpeglib.h	/^  JDIMENSION image_width;	\/* input image width *\/$/;"	m	struct:jpeg_compress_struct
+image_width	include/jpeglib.h	/^  JDIMENSION image_width;	\/* nominal image width (from SOF marker) *\/$/;"	m	struct:jpeg_decompress_struct
+in_color_space	include/jpeglib.h	/^  J_COLOR_SPACE in_color_space;	\/* colorspace of input image *\/$/;"	m	struct:jpeg_compress_struct
+info_arch	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_arch	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_compiler	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_compiler	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_platform	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_platform	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+input_components	include/jpeglib.h	/^  int input_components;		\/* # of color components in input image *\/$/;"	m	struct:jpeg_compress_struct
+input_gamma	include/jpeglib.h	/^  double input_gamma;		\/* image gamma of input image *\/$/;"	m	struct:jpeg_compress_struct
+input_iMCU_row	include/jpeglib.h	/^  JDIMENSION input_iMCU_row;	\/* Number of iMCU rows completed *\/$/;"	m	struct:jpeg_decompress_struct
+input_scan_number	include/jpeglib.h	/^  int input_scan_number;	\/* Number of SOS markers seen so far *\/$/;"	m	struct:jpeg_decompress_struct
+inputctl	include/jpeglib.h	/^  struct jpeg_input_controller * inputctl;$/;"	m	struct:jpeg_decompress_struct	typeref:struct:jpeg_decompress_struct::jpeg_input_controller
+is_baseline	include/jpeglib.h	/^  boolean is_baseline;		\/* TRUE if Baseline SOF0 encountered *\/$/;"	m	struct:jpeg_decompress_struct
+j_common_ptr	include/jpeglib.h	/^typedef struct jpeg_common_struct * j_common_ptr;$/;"	t	typeref:struct:jpeg_common_struct
+j_compress_ptr	include/jpeglib.h	/^typedef struct jpeg_compress_struct * j_compress_ptr;$/;"	t	typeref:struct:jpeg_compress_struct
+j_decompress_ptr	include/jpeglib.h	/^typedef struct jpeg_decompress_struct * j_decompress_ptr;$/;"	t	typeref:struct:jpeg_decompress_struct
+jpeg_CreateCompress	include/jpeglib.h	885;"	d
+jpeg_CreateDecompress	include/jpeglib.h	886;"	d
+jpeg_abort	include/jpeglib.h	934;"	d
+jpeg_abort_compress	include/jpeglib.h	932;"	d
+jpeg_abort_decompress	include/jpeglib.h	933;"	d
+jpeg_add_quant_table	include/jpeglib.h	899;"	d
+jpeg_alloc_huff_table	include/jpeglib.h	904;"	d
+jpeg_alloc_quant_table	include/jpeglib.h	903;"	d
+jpeg_c_coef_controller	include/jpeglib.h	/^struct jpeg_c_coef_controller { long dummy; };$/;"	s
+jpeg_c_main_controller	include/jpeglib.h	/^struct jpeg_c_main_controller { long dummy; };$/;"	s
+jpeg_c_prep_controller	include/jpeglib.h	/^struct jpeg_c_prep_controller { long dummy; };$/;"	s
+jpeg_calc_jpeg_dimensions	include/jpeglib.h	908;"	d
+jpeg_calc_output_dimensions	include/jpeglib.h	926;"	d
+jpeg_color_converter	include/jpeglib.h	/^struct jpeg_color_converter { long dummy; };$/;"	s
+jpeg_color_deconverter	include/jpeglib.h	/^struct jpeg_color_deconverter { long dummy; };$/;"	s
+jpeg_color_quantizer	include/jpeglib.h	/^struct jpeg_color_quantizer { long dummy; };$/;"	s
+jpeg_color_space	include/jpeglib.h	/^  J_COLOR_SPACE jpeg_color_space; \/* colorspace of JPEG image *\/$/;"	m	struct:jpeg_compress_struct
+jpeg_color_space	include/jpeglib.h	/^  J_COLOR_SPACE jpeg_color_space; \/* colorspace of JPEG image *\/$/;"	m	struct:jpeg_decompress_struct
+jpeg_common_fields	include/jpeglib.h	/^  jpeg_common_fields;		\/* Fields common to both master struct types *\/$/;"	m	struct:jpeg_common_struct
+jpeg_common_fields	include/jpeglib.h	/^  jpeg_common_fields;		\/* Fields shared with jpeg_compress_struct *\/$/;"	m	struct:jpeg_decompress_struct
+jpeg_common_fields	include/jpeglib.h	/^  jpeg_common_fields;		\/* Fields shared with jpeg_decompress_struct *\/$/;"	m	struct:jpeg_compress_struct
+jpeg_common_fields	include/jpeglib.h	257;"	d
+jpeg_common_struct	include/jpeglib.h	/^struct jpeg_common_struct {$/;"	s
+jpeg_comp_master	include/jpeglib.h	/^struct jpeg_comp_master { long dummy; };$/;"	s
+jpeg_component_info	include/jpeglib.h	/^} jpeg_component_info;$/;"	t	typeref:struct:__anon5
+jpeg_compress_struct	include/jpeglib.h	/^struct jpeg_compress_struct {$/;"	s
+jpeg_consume_input	include/jpeglib.h	924;"	d
+jpeg_copy_critical_parameters	include/jpeglib.h	931;"	d
+jpeg_core_output_dimensions	include/jpeglib.h	925;"	d
+jpeg_create_compress	include/jpeglib.h	951;"	d
+jpeg_create_decompress	include/jpeglib.h	954;"	d
+jpeg_d_coef_controller	include/jpeglib.h	/^struct jpeg_d_coef_controller { long dummy; };$/;"	s
+jpeg_d_main_controller	include/jpeglib.h	/^struct jpeg_d_main_controller { long dummy; };$/;"	s
+jpeg_d_post_controller	include/jpeglib.h	/^struct jpeg_d_post_controller { long dummy; };$/;"	s
+jpeg_decomp_master	include/jpeglib.h	/^struct jpeg_decomp_master { long dummy; };$/;"	s
+jpeg_decompress_struct	include/jpeglib.h	/^struct jpeg_decompress_struct {$/;"	s
+jpeg_default_colorspace	include/jpeglib.h	895;"	d
+jpeg_default_qtables	include/jpeglib.h	898;"	d
+jpeg_destination_mgr	include/jpeglib.h	/^struct jpeg_destination_mgr {$/;"	s
+jpeg_destroy	include/jpeglib.h	935;"	d
+jpeg_destroy_compress	include/jpeglib.h	887;"	d
+jpeg_destroy_decompress	include/jpeglib.h	888;"	d
+jpeg_downsampler	include/jpeglib.h	/^struct jpeg_downsampler { long dummy; };$/;"	s
+jpeg_entropy_decoder	include/jpeglib.h	/^struct jpeg_entropy_decoder { long dummy; };$/;"	s
+jpeg_entropy_encoder	include/jpeglib.h	/^struct jpeg_entropy_encoder { long dummy; };$/;"	s
+jpeg_error_mgr	include/jpeglib.h	/^struct jpeg_error_mgr {$/;"	s
+jpeg_finish_compress	include/jpeglib.h	907;"	d
+jpeg_finish_decompress	include/jpeglib.h	917;"	d
+jpeg_finish_output	include/jpeglib.h	921;"	d
+jpeg_forward_dct	include/jpeglib.h	/^struct jpeg_forward_dct { long dummy; };$/;"	s
+jpeg_has_multiple_scans	include/jpeglib.h	919;"	d
+jpeg_height	include/jpeglib.h	/^  JDIMENSION jpeg_height;	\/* scaled JPEG image height *\/$/;"	m	struct:jpeg_compress_struct
+jpeg_input_complete	include/jpeglib.h	922;"	d
+jpeg_input_controller	include/jpeglib.h	/^struct jpeg_input_controller { long dummy; };$/;"	s
+jpeg_inverse_dct	include/jpeglib.h	/^struct jpeg_inverse_dct { long dummy; };$/;"	s
+jpeg_marker_reader	include/jpeglib.h	/^struct jpeg_marker_reader { long dummy; };$/;"	s
+jpeg_marker_struct	include/jpeglib.h	/^struct jpeg_marker_struct {$/;"	s
+jpeg_marker_writer	include/jpeglib.h	/^struct jpeg_marker_writer { long dummy; };$/;"	s
+jpeg_mem_dest	include/jpeglib.h	891;"	d
+jpeg_mem_src	include/jpeglib.h	892;"	d
+jpeg_memory_mgr	include/jpeglib.h	/^struct jpeg_memory_mgr {$/;"	s
+jpeg_message_table	include/jpeglib.h	/^  const char * const * jpeg_message_table; \/* Library errors *\/$/;"	m	struct:jpeg_error_mgr
+jpeg_new_colormap	include/jpeglib.h	923;"	d
+jpeg_progress_mgr	include/jpeglib.h	/^struct jpeg_progress_mgr {$/;"	s
+jpeg_quality_scaling	include/jpeglib.h	900;"	d
+jpeg_read_coefficients	include/jpeglib.h	929;"	d
+jpeg_read_header	include/jpeglib.h	914;"	d
+jpeg_read_raw_data	include/jpeglib.h	918;"	d
+jpeg_read_scanlines	include/jpeglib.h	916;"	d
+jpeg_resync_to_restart	include/jpeglib.h	936;"	d
+jpeg_save_markers	include/jpeglib.h	927;"	d
+jpeg_saved_marker_ptr	include/jpeglib.h	/^typedef struct jpeg_marker_struct FAR * jpeg_saved_marker_ptr;$/;"	t	typeref:struct:FAR
+jpeg_scan_info	include/jpeglib.h	/^} jpeg_scan_info;$/;"	t	typeref:struct:__anon6
+jpeg_set_colorspace	include/jpeglib.h	894;"	d
+jpeg_set_defaults	include/jpeglib.h	893;"	d
+jpeg_set_linear_quality	include/jpeglib.h	897;"	d
+jpeg_set_marker_processor	include/jpeglib.h	928;"	d
+jpeg_set_quality	include/jpeglib.h	896;"	d
+jpeg_simple_progression	include/jpeglib.h	901;"	d
+jpeg_source_mgr	include/jpeglib.h	/^struct jpeg_source_mgr {$/;"	s
+jpeg_start_compress	include/jpeglib.h	905;"	d
+jpeg_start_decompress	include/jpeglib.h	915;"	d
+jpeg_start_output	include/jpeglib.h	920;"	d
+jpeg_std_error	include/jpeglib.h	884;"	d
+jpeg_stdio_dest	include/jpeglib.h	889;"	d
+jpeg_stdio_src	include/jpeglib.h	890;"	d
+jpeg_suppress_tables	include/jpeglib.h	902;"	d
+jpeg_upsampler	include/jpeglib.h	/^struct jpeg_upsampler { long dummy; };$/;"	s
+jpeg_width	include/jpeglib.h	/^  JDIMENSION jpeg_width;	\/* scaled JPEG image width *\/$/;"	m	struct:jpeg_compress_struct
+jpeg_write_coefficients	include/jpeglib.h	930;"	d
+jpeg_write_m_byte	include/jpeglib.h	912;"	d
+jpeg_write_m_header	include/jpeglib.h	911;"	d
+jpeg_write_marker	include/jpeglib.h	910;"	d
+jpeg_write_raw_data	include/jpeglib.h	909;"	d
+jpeg_write_scanlines	include/jpeglib.h	906;"	d
+jpeg_write_tables	include/jpeglib.h	913;"	d
+jvirt_barray_control	include/jpeglib.h	/^struct jvirt_barray_control { long dummy; };$/;"	s
+jvirt_barray_ptr	include/jpeglib.h	/^typedef struct jvirt_barray_control * jvirt_barray_ptr;$/;"	t	typeref:struct:jvirt_barray_control
+jvirt_sarray_control	include/jpeglib.h	/^struct jvirt_sarray_control { long dummy; };$/;"	s
+jvirt_sarray_ptr	include/jpeglib.h	/^typedef struct jvirt_sarray_control * jvirt_sarray_ptr;$/;"	t	typeref:struct:jvirt_sarray_control
+last_addon_message	include/jpeglib.h	/^  int last_addon_message;	\/* code for last string in addon table *\/$/;"	m	struct:jpeg_error_mgr
+last_col_width	include/jpeglib.h	/^  int last_col_width;		\/* # of non-dummy blocks across in last MCU *\/$/;"	m	struct:__anon5
+last_jpeg_message	include/jpeglib.h	/^  int last_jpeg_message;    \/* Table contains strings 0..last_jpeg_message *\/$/;"	m	struct:jpeg_error_mgr
+last_row_height	include/jpeglib.h	/^  int last_row_height;		\/* # of non-dummy blocks down in last MCU *\/$/;"	m	struct:__anon5
+lim_Se	include/jpeglib.h	/^  int lim_Se;			\/* min( Se, DCTSIZE2-1 ) *\/$/;"	m	struct:jpeg_compress_struct
+lim_Se	include/jpeglib.h	/^  int lim_Se;			\/* min( Se, DCTSIZE2-1 ) for entropy decode *\/$/;"	m	struct:jpeg_decompress_struct
+m_avec	include/SLIC.h	/^	double*									m_avec;$/;"	m	class:SLIC
+m_avecvec	include/SLIC.h	/^	double**								m_avecvec;$/;"	m	class:SLIC
+m_bvec	include/SLIC.h	/^	double*									m_bvec;$/;"	m	class:SLIC
+m_bvecvec	include/SLIC.h	/^	double**								m_bvecvec;$/;"	m	class:SLIC
+m_depth	include/SLIC.h	/^	int										m_depth;$/;"	m	class:SLIC
+m_height	include/SLIC.h	/^	int										m_height;$/;"	m	class:SLIC
+m_lvec	include/SLIC.h	/^	double*									m_lvec;$/;"	m	class:SLIC
+m_lvecvec	include/SLIC.h	/^	double**								m_lvecvec;$/;"	m	class:SLIC
+m_width	include/SLIC.h	/^	int										m_width;$/;"	m	class:SLIC
+main	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^int main(int argc, char* argv[])$/;"	f
+main	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^void main() {}$/;"	f
+main	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^int main(int argc, char* argv[])$/;"	f
+main	example/j2seg.cpp	/^int main(int argc, char* argv[])$/;"	f
+main	include/jpeglib.h	/^  struct jpeg_c_main_controller * main;$/;"	m	struct:jpeg_compress_struct	typeref:struct:jpeg_compress_struct::jpeg_c_main_controller
+main	include/jpeglib.h	/^  struct jpeg_d_main_controller * main;$/;"	m	struct:jpeg_decompress_struct	typeref:struct:jpeg_decompress_struct::jpeg_d_main_controller
+marker	include/jpeglib.h	/^  UINT8 marker;			\/* marker code: JPEG_COM, or JPEG_APP0+n *\/$/;"	m	struct:jpeg_marker_struct
+marker	include/jpeglib.h	/^  struct jpeg_marker_reader * marker;$/;"	m	struct:jpeg_decompress_struct	typeref:struct:jpeg_decompress_struct::jpeg_marker_reader
+marker	include/jpeglib.h	/^  struct jpeg_marker_writer * marker;$/;"	m	struct:jpeg_compress_struct	typeref:struct:jpeg_compress_struct::jpeg_marker_writer
+marker_list	include/jpeglib.h	/^  jpeg_saved_marker_ptr marker_list; \/* Head of list of saved markers *\/$/;"	m	struct:jpeg_decompress_struct
+master	include/jpeglib.h	/^  struct jpeg_comp_master * master;$/;"	m	struct:jpeg_compress_struct	typeref:struct:jpeg_compress_struct::jpeg_comp_master
+master	include/jpeglib.h	/^  struct jpeg_decomp_master * master;$/;"	m	struct:jpeg_decompress_struct	typeref:struct:jpeg_decompress_struct::jpeg_decomp_master
+max_alloc_chunk	include/jpeglib.h	/^  long max_alloc_chunk;$/;"	m	struct:jpeg_memory_mgr
+max_h_samp_factor	include/jpeglib.h	/^  int max_h_samp_factor;	\/* largest h_samp_factor *\/$/;"	m	struct:jpeg_compress_struct
+max_h_samp_factor	include/jpeglib.h	/^  int max_h_samp_factor;	\/* largest h_samp_factor *\/$/;"	m	struct:jpeg_decompress_struct
+max_memory_to_use	include/jpeglib.h	/^  long max_memory_to_use;$/;"	m	struct:jpeg_memory_mgr
+max_v_samp_factor	include/jpeglib.h	/^  int max_v_samp_factor;	\/* largest v_samp_factor *\/$/;"	m	struct:jpeg_compress_struct
+max_v_samp_factor	include/jpeglib.h	/^  int max_v_samp_factor;	\/* largest v_samp_factor *\/$/;"	m	struct:jpeg_decompress_struct
+min_DCT_h_scaled_size	include/jpeglib.h	/^  int min_DCT_h_scaled_size;	\/* smallest DCT_h_scaled_size of any component *\/$/;"	m	struct:jpeg_compress_struct
+min_DCT_h_scaled_size	include/jpeglib.h	/^  int min_DCT_h_scaled_size;	\/* smallest DCT_h_scaled_size of any component *\/$/;"	m	struct:jpeg_decompress_struct
+min_DCT_v_scaled_size	include/jpeglib.h	/^  int min_DCT_v_scaled_size;	\/* smallest DCT_v_scaled_size of any component *\/$/;"	m	struct:jpeg_compress_struct
+min_DCT_v_scaled_size	include/jpeglib.h	/^  int min_DCT_v_scaled_size;	\/* smallest DCT_v_scaled_size of any component *\/$/;"	m	struct:jpeg_decompress_struct
+msg_code	include/jpeglib.h	/^  int msg_code;$/;"	m	struct:jpeg_error_mgr
+msg_parm	include/jpeglib.h	/^  } msg_parm;$/;"	m	struct:jpeg_error_mgr	typeref:union:jpeg_error_mgr::__anon11
+natural_order	include/jpeglib.h	/^  const int * natural_order;	\/* natural-order position array *\/$/;"	m	struct:jpeg_compress_struct
+natural_order	include/jpeglib.h	/^  const int * natural_order; \/* natural-order position array for entropy decode *\/$/;"	m	struct:jpeg_decompress_struct
+next	include/jpeglib.h	/^  jpeg_saved_marker_ptr next;	\/* next in list, or NULL *\/$/;"	m	struct:jpeg_marker_struct
+next_input_byte	include/jpeglib.h	/^  const JOCTET * next_input_byte; \/* => next byte to read from buffer *\/$/;"	m	struct:jpeg_source_mgr
+next_output_byte	include/jpeglib.h	/^  JOCTET * next_output_byte;	\/* => next byte to write in buffer *\/$/;"	m	struct:jpeg_destination_mgr
+next_scanline	include/jpeglib.h	/^  JDIMENSION next_scanline;	\/* 0 .. image_height-1  *\/$/;"	m	struct:jpeg_compress_struct
+noreturn_t	include/jmorecfg.h	/^typedef void noreturn_t;$/;"	t
+num_components	include/jpeglib.h	/^  int num_components;		\/* # of color components in JPEG image *\/$/;"	m	struct:jpeg_compress_struct
+num_components	include/jpeglib.h	/^  int num_components;		\/* # of color components in JPEG image *\/$/;"	m	struct:jpeg_decompress_struct
+num_scans	include/jpeglib.h	/^  int num_scans;		\/* # of entries in scan_info array *\/$/;"	m	struct:jpeg_compress_struct
+num_warnings	include/jpeglib.h	/^  long num_warnings;		\/* number of corrupt-data warnings *\/$/;"	m	struct:jpeg_error_mgr
+optimize_coding	include/jpeglib.h	/^  boolean optimize_coding;	\/* TRUE=optimize entropy encoding parms *\/$/;"	m	struct:jpeg_compress_struct
+original_length	include/jpeglib.h	/^  unsigned int original_length;	\/* # bytes of data in the file *\/$/;"	m	struct:jpeg_marker_struct
+out_color_components	include/jpeglib.h	/^  int out_color_components;	\/* # of color components in out_color_space *\/$/;"	m	struct:jpeg_decompress_struct
+out_color_space	include/jpeglib.h	/^  J_COLOR_SPACE out_color_space; \/* colorspace for output *\/$/;"	m	struct:jpeg_decompress_struct
+output_components	include/jpeglib.h	/^  int output_components;	\/* # of color components returned *\/$/;"	m	struct:jpeg_decompress_struct
+output_gamma	include/jpeglib.h	/^  double output_gamma;		\/* image gamma wanted in output *\/$/;"	m	struct:jpeg_decompress_struct
+output_height	include/jpeglib.h	/^  JDIMENSION output_height;	\/* scaled image height *\/$/;"	m	struct:jpeg_decompress_struct
+output_iMCU_row	include/jpeglib.h	/^  JDIMENSION output_iMCU_row;	\/* Number of iMCU rows read *\/$/;"	m	struct:jpeg_decompress_struct
+output_scan_number	include/jpeglib.h	/^  int output_scan_number;	\/* Nominal scan number being displayed *\/$/;"	m	struct:jpeg_decompress_struct
+output_scanline	include/jpeglib.h	/^  JDIMENSION output_scanline;	\/* 0 .. output_height-1  *\/$/;"	m	struct:jpeg_decompress_struct
+output_width	include/jpeglib.h	/^  JDIMENSION output_width;	\/* scaled image width *\/$/;"	m	struct:jpeg_decompress_struct
+pass_counter	include/jpeglib.h	/^  long pass_counter;		\/* work units completed in this pass *\/$/;"	m	struct:jpeg_progress_mgr
+pass_limit	include/jpeglib.h	/^  long pass_limit;		\/* total number of work units in this pass *\/$/;"	m	struct:jpeg_progress_mgr
+post	include/jpeglib.h	/^  struct jpeg_d_post_controller * post;$/;"	m	struct:jpeg_decompress_struct	typeref:struct:jpeg_decompress_struct::jpeg_d_post_controller
+prep	include/jpeglib.h	/^  struct jpeg_c_prep_controller * prep;$/;"	m	struct:jpeg_compress_struct	typeref:struct:jpeg_compress_struct::jpeg_c_prep_controller
+progressive_mode	include/jpeglib.h	/^  boolean progressive_mode;	\/* TRUE if SOFn specifies progressive mode *\/$/;"	m	struct:jpeg_decompress_struct
+progressive_mode	include/jpeglib.h	/^  boolean progressive_mode;	\/* TRUE if scan script uses progressive mode *\/$/;"	m	struct:jpeg_compress_struct
+q_scale_factor	include/jpeglib.h	/^  int q_scale_factor[NUM_QUANT_TBLS];$/;"	m	struct:jpeg_compress_struct
+quant_table	include/jpeglib.h	/^  JQUANT_TBL * quant_table;$/;"	m	struct:__anon5
+quant_tbl_no	include/jpeglib.h	/^  int quant_tbl_no;		\/* quantization table selector (0..3) *\/$/;"	m	struct:__anon5
+quant_tbl_ptrs	include/jpeglib.h	/^  JQUANT_TBL * quant_tbl_ptrs[NUM_QUANT_TBLS];$/;"	m	struct:jpeg_compress_struct
+quant_tbl_ptrs	include/jpeglib.h	/^  JQUANT_TBL * quant_tbl_ptrs[NUM_QUANT_TBLS];$/;"	m	struct:jpeg_decompress_struct
+quantize_colors	include/jpeglib.h	/^  boolean quantize_colors;	\/* TRUE=colormapped output wanted *\/$/;"	m	struct:jpeg_decompress_struct
+quantval	include/jpeglib.h	/^  UINT16 quantval[DCTSIZE2];	\/* quantization step for each coefficient *\/$/;"	m	struct:__anon3
+raw_data_in	include/jpeglib.h	/^  boolean raw_data_in;		\/* TRUE=caller supplies downsampled data *\/$/;"	m	struct:jpeg_compress_struct
+raw_data_out	include/jpeglib.h	/^  boolean raw_data_out;		\/* TRUE=downsampled data wanted *\/$/;"	m	struct:jpeg_decompress_struct
+read_jpeg_file	example/j2seg.cpp	/^int read_jpeg_file(const char *input_filename, const char *output_filename, int & height, int & width)$/;"	f
+readbmp	example/j2seg.cpp	/^void readbmp(char *filename, unsigned char * image_buffer, int h, int w)$/;"	f
+rec_outbuf_height	include/jpeglib.h	/^  int rec_outbuf_height;	\/* min recommended height of scanline buffer *\/$/;"	m	struct:jpeg_decompress_struct
+restart_in_rows	include/jpeglib.h	/^  int restart_in_rows;		\/* if > 0, MCU rows per restart interval *\/$/;"	m	struct:jpeg_compress_struct
+restart_interval	include/jpeglib.h	/^  unsigned int restart_interval; \/* MCUs per restart interval, or 0 for no restart *\/$/;"	m	struct:jpeg_decompress_struct
+restart_interval	include/jpeglib.h	/^  unsigned int restart_interval; \/* MCUs per restart, or 0 for no restart *\/$/;"	m	struct:jpeg_compress_struct
+s	include/jpeglib.h	/^    char s[JMSG_STR_PARM_MAX];$/;"	m	union:jpeg_error_mgr::__anon11
+sample_range_limit	include/jpeglib.h	/^  JSAMPLE * sample_range_limit; \/* table for fast range-limiting *\/$/;"	m	struct:jpeg_decompress_struct
+saw_Adobe_marker	include/jpeglib.h	/^  boolean saw_Adobe_marker;	\/* TRUE iff an Adobe APP14 marker was found *\/$/;"	m	struct:jpeg_decompress_struct
+saw_JFIF_marker	include/jpeglib.h	/^  boolean saw_JFIF_marker;	\/* TRUE iff a JFIF APP0 marker was found *\/$/;"	m	struct:jpeg_decompress_struct
+scale_denom	include/jpeglib.h	/^  unsigned int scale_num, scale_denom; \/* fraction by which to scale image *\/$/;"	m	struct:jpeg_compress_struct
+scale_denom	include/jpeglib.h	/^  unsigned int scale_num, scale_denom; \/* fraction by which to scale image *\/$/;"	m	struct:jpeg_decompress_struct
+scale_num	include/jpeglib.h	/^  unsigned int scale_num, scale_denom; \/* fraction by which to scale image *\/$/;"	m	struct:jpeg_compress_struct
+scale_num	include/jpeglib.h	/^  unsigned int scale_num, scale_denom; \/* fraction by which to scale image *\/$/;"	m	struct:jpeg_decompress_struct
+scan_info	include/jpeglib.h	/^  const jpeg_scan_info * scan_info; \/* script for multi-scan file, or NULL *\/$/;"	m	struct:jpeg_compress_struct
+script_space	include/jpeglib.h	/^  jpeg_scan_info * script_space; \/* workspace for jpeg_simple_progression *\/$/;"	m	struct:jpeg_compress_struct
+script_space_size	include/jpeglib.h	/^  int script_space_size;$/;"	m	struct:jpeg_compress_struct
+sent_table	include/jpeglib.h	/^  boolean sent_table;		\/* TRUE when table has been output *\/$/;"	m	struct:__anon3
+sent_table	include/jpeglib.h	/^  boolean sent_table;		\/* TRUE when table has been output *\/$/;"	m	struct:__anon4
+smoothing_factor	include/jpeglib.h	/^  int smoothing_factor;		\/* 1..100, or 0 for no input smoothing *\/$/;"	m	struct:jpeg_compress_struct
+src	include/jpeglib.h	/^  struct jpeg_source_mgr * src;$/;"	m	struct:jpeg_decompress_struct	typeref:struct:jpeg_decompress_struct::jpeg_source_mgr
+total_iMCU_rows	include/jpeglib.h	/^  JDIMENSION total_iMCU_rows;	\/* # of iMCU rows in image *\/$/;"	m	struct:jpeg_decompress_struct
+total_iMCU_rows	include/jpeglib.h	/^  JDIMENSION total_iMCU_rows;	\/* # of iMCU rows to be input to coef ctlr *\/$/;"	m	struct:jpeg_compress_struct
+total_passes	include/jpeglib.h	/^  int total_passes;		\/* total number of passes expected *\/$/;"	m	struct:jpeg_progress_mgr
+trace_level	include/jpeglib.h	/^  int trace_level;		\/* max msg_level that will be displayed *\/$/;"	m	struct:jpeg_error_mgr
+two_pass_quantize	include/jpeglib.h	/^  boolean two_pass_quantize;	\/* TRUE=use two-pass color quantization *\/$/;"	m	struct:jpeg_decompress_struct
+unread_marker	include/jpeglib.h	/^  int unread_marker;$/;"	m	struct:jpeg_decompress_struct
+upsample	include/jpeglib.h	/^  struct jpeg_upsampler * upsample;$/;"	m	struct:jpeg_decompress_struct	typeref:struct:jpeg_decompress_struct::jpeg_upsampler
+v_samp_factor	include/jpeglib.h	/^  int v_samp_factor;		\/* vertical sampling factor (1..4) *\/$/;"	m	struct:__anon5
+width_in_blocks	include/jpeglib.h	/^  JDIMENSION width_in_blocks;$/;"	m	struct:__anon5
+write_Adobe_marker	include/jpeglib.h	/^  boolean write_Adobe_marker;	\/* should an Adobe marker be written? *\/$/;"	m	struct:jpeg_compress_struct
+write_JFIF_header	include/jpeglib.h	/^  boolean write_JFIF_header;	\/* should a JFIF marker be written? *\/$/;"	m	struct:jpeg_compress_struct
+write_bmp_header	example/j2seg.cpp	/^void write_bmp_header(j_decompress_ptr cinfo, FILE *output_file)$/;"	f
+write_jpeg_file	example/j2seg.cpp	/^int write_jpeg_file(char * filename, unsigned char * image_buffer, int w, int h, int quality)$/;"	f
+write_pixel_data	example/j2seg.cpp	/^ void write_pixel_data(j_decompress_ptr cinfo, unsigned char *output_buffer, FILE *output_file)$/;"	f
+~SLIC	src/SLIC.cpp	/^SLIC::~SLIC()$/;"	f	class:SLIC

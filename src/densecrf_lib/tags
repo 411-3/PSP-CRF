@@ -1,0 +1,299 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	193;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	196;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	199;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	202;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	206;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	181;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	184;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	187;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	190;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	194;"	d	file:
+BPPottsPotential	src/bipartitedensecrf.cpp	/^	BPPottsPotential( const BPPottsPotential&o ){}$/;"	f	class:BPPottsPotential
+BPPottsPotential	src/bipartitedensecrf.cpp	/^	BPPottsPotential(const float* features1, const float* features2, int D, int N1, int N2, float w, bool per_pixel_normalization=true) :N1_(N1), N2_(N2), w_(w) {$/;"	f	class:BPPottsPotential
+BPPottsPotential	src/bipartitedensecrf.cpp	/^class BPPottsPotential: public PairwisePotential{$/;"	c	file:
+BPSemiMetricPotential	src/bipartitedensecrf.cpp	/^	BPSemiMetricPotential(const float* features1, const float* features2, int D, int N1, int N2, float w, const SemiMetricFunction* function, bool per_pixel_normalization=true) :BPPottsPotential( features1, features2, D, N1, N2, w, per_pixel_normalization ),function_(function) {$/;"	f	class:BPSemiMetricPotential
+BPSemiMetricPotential	src/bipartitedensecrf.cpp	/^class BPSemiMetricPotential: public BPPottsPotential{$/;"	c	file:
+BipartiteDenseCRF	include/densecrf.h	/^	BipartiteDenseCRF( BipartiteDenseCRF & o ){}$/;"	f	class:BipartiteDenseCRF
+BipartiteDenseCRF	include/densecrf.h	/^class BipartiteDenseCRF{$/;"	c
+BipartiteDenseCRF	src/bipartitedensecrf.cpp	/^BipartiteDenseCRF::BipartiteDenseCRF(int N1, int N2, int M): M_(M) {$/;"	f	class:BipartiteDenseCRF
+CMAKE_BINARY_DIR	build/Makefile	/^CMAKE_BINARY_DIR = \/home\/xduser\/LiHuan\/densecrf\/build$/;"	m
+CMAKE_BINARY_DIR	build/examples/Makefile	/^CMAKE_BINARY_DIR = \/home\/xduser\/LiHuan\/densecrf\/build$/;"	m
+CMAKE_BINARY_DIR	build/src/Makefile	/^CMAKE_BINARY_DIR = \/home\/xduser\/LiHuan\/densecrf\/build$/;"	m
+CMAKE_COMMAND	build/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_COMMAND	build/examples/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_COMMAND	build/src/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_SOURCE_DIR	build/Makefile	/^CMAKE_SOURCE_DIR = \/home\/xduser\/LiHuan\/densecrf$/;"	m
+CMAKE_SOURCE_DIR	build/examples/Makefile	/^CMAKE_SOURCE_DIR = \/home\/xduser\/LiHuan\/densecrf$/;"	m
+CMAKE_SOURCE_DIR	build/src/Makefile	/^CMAKE_SOURCE_DIR = \/home\/xduser\/LiHuan\/densecrf$/;"	m
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	10;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	13;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	16;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	19;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	22;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	25;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	28;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	32;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	34;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	36;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	40;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	43;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	46;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	49;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	52;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	55;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	58;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	61;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	66;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	77;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	80;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	86;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	89;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	92;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	12;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	15;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	18;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	21;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	24;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	27;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	30;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	34;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	36;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	38;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	42;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	45;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	48;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	51;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	54;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	57;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	60;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	65;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	68;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	74;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	77;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	80;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	9;"	d	file:
+DenseCRF	include/densecrf.h	/^	DenseCRF( DenseCRF & o ){}$/;"	f	class:DenseCRF
+DenseCRF	include/densecrf.h	/^class DenseCRF{$/;"	c
+DenseCRF	src/densecrf.cpp	/^DenseCRF::DenseCRF(int N, int M) : N_(N), M_(M) {$/;"	f	class:DenseCRF
+DenseCRF2D	include/densecrf.h	/^class DenseCRF2D:public DenseCRF{$/;"	c
+DenseCRF2D	src/densecrf.cpp	/^DenseCRF2D::DenseCRF2D(int W, int H, int M) : DenseCRF(W*H,M), W_(W), H_(H) {$/;"	f	class:DenseCRF2D
+Filter	include/densecrf.h	/^    Filter( const Filter& filter ){}$/;"	f	class:Filter
+Filter	include/densecrf.h	/^class Filter{$/;"	c
+Filter	src/filter.cpp	/^Filter::Filter( const float * features, int N, int feature_dim ):n1_(N),o1_(0),n2_(N), o2_(0){$/;"	f	class:Filter
+Filter	src/filter.cpp	/^Filter::Filter( const float * source_features, int N_source, const float * target_features, int N_target, int feature_dim ):n1_(N_source),o1_(0),n2_(N_target), o2_(N_source){$/;"	f	class:Filter
+GT_PROB	examples/dense_inference.cpp	/^const float GT_PROB = 0.5;$/;"	v
+H_	include/densecrf.h	/^	int W_, H_;$/;"	m	class:DenseCRF2D
+HashTable	src/permutohedral.h	/^	HashTable( const HashTable & o ): key_size_ ( o.key_size_ ), filled_(0), capacity_(o.capacity_) {$/;"	f	class:HashTable
+HashTable	src/permutohedral.h	/^	explicit HashTable( int key_size, int n_elements ) : key_size_ ( key_size ), filled_(0), capacity_(2*n_elements) {$/;"	f	class:HashTable
+HashTable	src/permutohedral.h	/^class HashTable{$/;"	c
+ID_VOID_MAIN	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	6;"	d	file:
+M_	include/densecrf.h	/^	int N_, M_;$/;"	m	class:DenseCRF
+M_	include/densecrf.h	/^	int N_[2], M_;$/;"	m	class:BipartiteDenseCRF
+M_	src/permutohedral.h	/^	int N_, M_, d_;$/;"	m	class:Permutohedral
+N1_	src/bipartitedensecrf.cpp	/^	int N1_, N2_;$/;"	m	class:BPPottsPotential	file:
+N2_	src/bipartitedensecrf.cpp	/^	int N1_, N2_;$/;"	m	class:BPPottsPotential	file:
+N_	include/densecrf.h	/^	int N_, M_;$/;"	m	class:DenseCRF
+N_	include/densecrf.h	/^	int N_[2], M_;$/;"	m	class:BipartiteDenseCRF
+N_	src/densecrf.cpp	/^	int N_;$/;"	m	class:PottsPotential	file:
+N_	src/permutohedral.h	/^	int N_, M_, d_;$/;"	m	class:Permutohedral
+Neighbors	src/permutohedral.h	/^		Neighbors( int n1=0, int n2=0 ):n1(n1),n2(n2){$/;"	f	struct:Permutohedral::Neighbors
+Neighbors	src/permutohedral.h	/^	struct Neighbors{$/;"	s	class:Permutohedral
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	104;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	107;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	110;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	113;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	116;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	119;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	122;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	125;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	128;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	131;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	134;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	137;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	140;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	146;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	149;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	152;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	155;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	158;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	161;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	164;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	167;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	170;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	173;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	176;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	179;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	182;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	101;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	104;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	107;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	110;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	113;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	116;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	119;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	122;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	125;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	128;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	134;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	137;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	140;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	143;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	146;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	149;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	152;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	155;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	158;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	161;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	164;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	167;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	170;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	92;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	95;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	98;"	d	file:
+PairwisePotential	include/densecrf.h	/^class PairwisePotential{$/;"	c
+Permutohedral	src/permutohedral.h	/^	Permutohedral ( const Permutohedral& o ):offset_( NULL ),barycentric_( NULL ),blur_neighbors_( NULL ),N_ ( o.N_ ),M_ ( o.M_ ),d_ ( o.d_ )$/;"	f	class:Permutohedral
+Permutohedral	src/permutohedral.h	/^	Permutohedral() :offset_( NULL ),barycentric_( NULL ),blur_neighbors_( NULL ),N_ ( 0 ),M_ ( 0 ),d_ ( 0 ) {$/;"	f	class:Permutohedral
+Permutohedral	src/permutohedral.h	/^class Permutohedral$/;"	c
+PottsPotential	src/densecrf.cpp	/^	PottsPotential( const PottsPotential&o ){}$/;"	f	class:PottsPotential
+PottsPotential	src/densecrf.cpp	/^	PottsPotential(const float* features, int D, int N, float w, bool per_pixel_normalization=true) :N_(N), w_(w) {$/;"	f	class:PottsPotential
+PottsPotential	src/densecrf.cpp	/^class PottsPotential: public PairwisePotential{$/;"	c	file:
+RM	build/Makefile	/^RM = \/usr\/bin\/cmake -E remove -f$/;"	m
+RM	build/examples/Makefile	/^RM = \/usr\/bin\/cmake -E remove -f$/;"	m
+RM	build/src/Makefile	/^RM = \/usr\/bin\/cmake -E remove -f$/;"	m
+SHELL	build/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	build/examples/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	build/src/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SSE_DENSE_CRF	src/util.h	34;"	d
+SSE_PERMUTOHEDRAL	src/permutohedral.h	38;"	d
+SUFFIXES	build/Makefile	/^SUFFIXES =$/;"	m
+SUFFIXES	build/examples/Makefile	/^SUFFIXES =$/;"	m
+SUFFIXES	build/src/Makefile	/^SUFFIXES =$/;"	m
+SemiMetricFunction	include/densecrf.h	/^class SemiMetricFunction{$/;"	c
+SemiMetricPotential	src/densecrf.cpp	/^	SemiMetricPotential(const float* features, int D, int N, float w, const SemiMetricFunction* function, bool per_pixel_normalization=true) :PottsPotential( features, D, N, w, per_pixel_normalization ),function_(function) {$/;"	f	class:SemiMetricPotential
+SemiMetricPotential	src/densecrf.cpp	/^class SemiMetricPotential: public PottsPotential{$/;"	c	file:
+W_	include/densecrf.h	/^	int W_, H_;$/;"	m	class:DenseCRF2D
+addPairwiseBilateral	src/densecrf.cpp	/^void DenseCRF2D::addPairwiseBilateral ( float sx, float sy, float sr, float sg, float sb, const unsigned char* im, float w, const SemiMetricFunction * function ) {$/;"	f	class:DenseCRF2D
+addPairwiseEnergy	src/bipartitedensecrf.cpp	/^void BipartiteDenseCRF::addPairwiseEnergy ( PairwisePotential* potential12, PairwisePotential* potential21 ){$/;"	f	class:BipartiteDenseCRF
+addPairwiseEnergy	src/bipartitedensecrf.cpp	/^void BipartiteDenseCRF::addPairwiseEnergy (const float* features1, const float* features2, int D, float w, const SemiMetricFunction * function) {$/;"	f	class:BipartiteDenseCRF
+addPairwiseEnergy	src/densecrf.cpp	/^void DenseCRF::addPairwiseEnergy ( PairwisePotential* potential ){$/;"	f	class:DenseCRF
+addPairwiseEnergy	src/densecrf.cpp	/^void DenseCRF::addPairwiseEnergy (const float* features, int D, float w, const SemiMetricFunction * function) {$/;"	f	class:DenseCRF
+addPairwiseGaussian	src/densecrf.cpp	/^void DenseCRF2D::addPairwiseGaussian ( float sx, float sy, float w, const SemiMetricFunction * function ) {$/;"	f	class:DenseCRF2D
+additional_unary_	include/densecrf.h	/^	float *unary_, *additional_unary_, *current_, *next_, *tmp_;$/;"	m	class:DenseCRF
+allocate	src/util.cpp	/^float* allocate(size_t N) {$/;"	f
+apply	src/bipartitedensecrf.cpp	/^	virtual void apply( float * out_values, const float * in_values, float * tmp, int value_size ) const{$/;"	f	class:BPPottsPotential
+apply	src/bipartitedensecrf.cpp	/^	void apply(float* out_values, const float* in_values, float* tmp, int value_size) const {$/;"	f	class:BPSemiMetricPotential
+apply	src/densecrf.cpp	/^	void apply(float* out_values, const float* in_values, float* tmp, int value_size) const {$/;"	f	class:PottsPotential
+apply	src/densecrf.cpp	/^	void apply(float* out_values, const float* in_values, float* tmp, int value_size) const {$/;"	f	class:SemiMetricPotential
+barycentric_	src/permutohedral.h	/^	float * barycentric_;$/;"	m	class:Permutohedral
+blur_neighbors_	src/permutohedral.h	/^	Neighbors * blur_neighbors_;$/;"	m	class:Permutohedral
+capacity_	src/permutohedral.h	/^	size_t key_size_, filled_, capacity_;$/;"	m	class:HashTable
+classify	examples/dense_inference.cpp	/^float * classify( const unsigned char * im, int W, int H, int M ){$/;"	f
+colorize	examples/dense_inference.cpp	/^unsigned char * colorize( const short * map, int W, int H ){$/;"	f
+colors	examples/dense_inference.cpp	/^int colors[255];$/;"	v
+compute	src/permutohedral.h	/^	void compute ( __m128* out, const __m128* in, int value_size, int in_offset=0, int out_offset=0, int in_size = -1, int out_size = -1 ) const$/;"	f	class:Permutohedral
+compute	src/permutohedral.h	/^	void compute ( float* out, const float* in, int value_size, int in_offset=0, int out_offset=0, int in_size = -1, int out_size = -1 ) const$/;"	f	class:Permutohedral
+currentMap	src/densecrf.cpp	/^void DenseCRF::currentMap( short * result ){$/;"	f	class:DenseCRF
+current_	include/densecrf.h	/^	float *unary_, *additional_unary_, *current_, *next_, *tmp_;$/;"	m	class:DenseCRF
+d_	src/permutohedral.h	/^	int N_, M_, d_;$/;"	m	class:Permutohedral
+deallocate	src/util.cpp	/^void deallocate(float*& ptr) {$/;"	f
+dense_crfs_	include/densecrf.h	/^	DenseCRF* dense_crfs_[2];$/;"	m	class:BipartiteDenseCRF
+expAndNormalize	src/densecrf.cpp	/^void DenseCRF::expAndNormalize ( float* out, const float* in, float scale, float relax ) {$/;"	f	class:DenseCRF
+fast_exp	src/fastmath.h	/^inline __m128 fast_exp(__m128 x) {$/;"	f
+fast_exp	src/fastmath.h	/^inline float fast_exp(float x) {$/;"	f
+fast_log	src/fastmath.h	/^inline float fast_log (const float &val) {$/;"	f
+fast_log2	src/fastmath.h	/^inline float fast_log2 (float val) {$/;"	f
+filled_	src/permutohedral.h	/^	size_t key_size_, filled_, capacity_;$/;"	m	class:HashTable
+filter	src/filter.cpp	/^void Filter::filter( const float * source, float * target, int value_size ){$/;"	f	class:Filter
+find	src/permutohedral.h	/^	int find( const short * k, bool create = false ){$/;"	f	class:HashTable
+function_	src/bipartitedensecrf.cpp	/^	const SemiMetricFunction * function_;$/;"	m	class:BPSemiMetricPotential	file:
+function_	src/densecrf.cpp	/^	const SemiMetricFunction * function_;$/;"	m	class:SemiMetricPotential	file:
+getCRF	src/bipartitedensecrf.cpp	/^DenseCRF& BipartiteDenseCRF::getCRF(int i) {$/;"	f	class:BipartiteDenseCRF
+getCRF	src/bipartitedensecrf.cpp	/^const DenseCRF& BipartiteDenseCRF::getCRF(int i) const {$/;"	f	class:BipartiteDenseCRF
+getColor	examples/dense_inference.cpp	/^unsigned int getColor( const unsigned char * c ){$/;"	f
+getKey	src/permutohedral.h	/^	const short * getKey( int i ) const{$/;"	f	class:HashTable
+grow	src/permutohedral.h	/^	void grow(){$/;"	f	class:HashTable
+hash	src/permutohedral.h	/^	size_t hash( const short * k ) {$/;"	f	class:HashTable
+inference	src/bipartitedensecrf.cpp	/^void BipartiteDenseCRF::inference ( int n_iterations, float* result1, float* result2, float relax ) {$/;"	f	class:BipartiteDenseCRF
+inference	src/densecrf.cpp	/^void DenseCRF::inference ( int n_iterations, float* result, float relax ) {$/;"	f	class:DenseCRF
+info_arch	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_arch	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_compiler	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_compiler	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_platform	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_platform	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+init	src/permutohedral.h	/^	void init ( const float* feature, int feature_size, int N )$/;"	f	class:Permutohedral
+key_size_	src/permutohedral.h	/^	size_t key_size_, filled_, capacity_;$/;"	m	class:HashTable
+keys_	src/permutohedral.h	/^	short * keys_;$/;"	m	class:HashTable
+lattice_	src/bipartitedensecrf.cpp	/^	Permutohedral lattice_;$/;"	m	class:BPPottsPotential	file:
+lattice_	src/densecrf.cpp	/^	Permutohedral lattice_;$/;"	m	class:PottsPotential	file:
+main	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^int main(int argc, char* argv[])$/;"	f
+main	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^void main() {}$/;"	f
+main	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^int main(int argc, char* argv[])$/;"	f
+main	examples/dense_inference.cpp	/^int main( int argc, char* argv[]){$/;"	f
+map	src/bipartitedensecrf.cpp	/^void BipartiteDenseCRF::map ( int n_iterations, short* result1, short* result2, float relax ) {$/;"	f	class:BipartiteDenseCRF
+map	src/densecrf.cpp	/^void DenseCRF::map ( int n_iterations, short* result, float relax ) {$/;"	f	class:DenseCRF
+n1	src/permutohedral.h	/^		int n1, n2;$/;"	m	struct:Permutohedral::Neighbors
+n1_	include/densecrf.h	/^    int n1_, o1_, n2_, o2_;$/;"	m	class:Filter
+n2	src/permutohedral.h	/^		int n1, n2;$/;"	m	struct:Permutohedral::Neighbors
+n2_	include/densecrf.h	/^    int n1_, o1_, n2_, o2_;$/;"	m	class:Filter
+nColors	examples/dense_inference.cpp	/^int nColors = 0;$/;"	v
+next_	include/densecrf.h	/^	float *unary_, *additional_unary_, *current_, *next_, *tmp_;$/;"	m	class:DenseCRF
+norm_	src/bipartitedensecrf.cpp	/^	float *norm_;$/;"	m	class:BPPottsPotential	file:
+norm_	src/densecrf.cpp	/^	float *norm_;$/;"	m	class:PottsPotential	file:
+o1_	include/densecrf.h	/^    int n1_, o1_, n2_, o2_;$/;"	m	class:Filter
+o2_	include/densecrf.h	/^    int n1_, o1_, n2_, o2_;$/;"	m	class:Filter
+offset_	src/permutohedral.h	/^	int * offset_;$/;"	m	class:Permutohedral
+operator *	src/sse_defs.h	/^__m128 operator*( __m128 a, __m128 b ){$/;"	f
+operator *=	src/sse_defs.h	/^__m128 operator*=( __m128 &a, __m128 b ){$/;"	f
+operator +	src/sse_defs.h	/^__m128 operator+( __m128 a, __m128 b ){$/;"	f
+operator +=	src/sse_defs.h	/^__m128 operator+=( __m128 &a, __m128 b ){$/;"	f
+operator -	src/sse_defs.h	/^__m128 operator-( __m128 a ){$/;"	f
+operator -	src/sse_defs.h	/^__m128 operator-( __m128 a, __m128 b ){$/;"	f
+operator -=	src/sse_defs.h	/^__m128 operator-=( __m128 &a, __m128 b ){$/;"	f
+operator /	src/sse_defs.h	/^__m128 operator\/( __m128 a, __m128 b ){$/;"	f
+operator /=	src/sse_defs.h	/^__m128 operator\/=( __m128 &a, __m128 b ){$/;"	f
+operator =	src/permutohedral.h	/^	Permutohedral& operator= ( const Permutohedral& o )$/;"	f	class:Permutohedral
+pairwiseEnergy	src/densecrf.cpp	/^void DenseCRF::pairwiseEnergy(const short* ass, float* result, int term) {$/;"	f	class:DenseCRF
+pairwise_	include/densecrf.h	/^	std::vector<PairwisePotential*> pairwise_;$/;"	m	class:DenseCRF
+pairwise_	include/densecrf.h	/^	std::vector<PairwisePotential*> pairwise_[2];$/;"	m	class:BipartiteDenseCRF
+permutohedral_	include/densecrf.h	/^    Permutohedral * permutohedral_;$/;"	m	class:Filter
+putColor	examples/dense_inference.cpp	/^void putColor( unsigned char * c, unsigned int cc ){$/;"	f
+readPPM	examples/util.cpp	/^unsigned char* readPPM ( const char* filename, int& W, int& H )$/;"	f
+reset	src/permutohedral.h	/^	void reset() {$/;"	f	class:HashTable
+round	src/permutohedral.h	/^static float round( float v ) {$/;"	f
+runInference	src/bipartitedensecrf.cpp	/^void BipartiteDenseCRF::runInference( int n_iterations, float ** prob, float relax ) {$/;"	f	class:BipartiteDenseCRF
+runInference	src/densecrf.cpp	/^float* DenseCRF::runInference( int n_iterations, float relax ) {$/;"	f	class:DenseCRF
+setUnaryEnergy	src/densecrf.cpp	/^void DenseCRF2D::setUnaryEnergy ( int x, int y, const float* unary ) {$/;"	f	class:DenseCRF2D
+setUnaryEnergy	src/densecrf.cpp	/^void DenseCRF::setUnaryEnergy ( const float* unary ) {$/;"	f	class:DenseCRF
+setUnaryEnergy	src/densecrf.cpp	/^void DenseCRF::setUnaryEnergy ( int n, const float* unary ) {$/;"	f	class:DenseCRF
+size	src/permutohedral.h	/^	int size() const {$/;"	f	class:HashTable
+startInference	src/bipartitedensecrf.cpp	/^void BipartiteDenseCRF::startInference(){$/;"	f	class:BipartiteDenseCRF
+startInference	src/densecrf.cpp	/^void DenseCRF::startInference(){$/;"	f	class:DenseCRF
+stepInference	src/bipartitedensecrf.cpp	/^void BipartiteDenseCRF::stepInference( float relax ){$/;"	f	class:BipartiteDenseCRF
+stepInference	src/densecrf.cpp	/^void DenseCRF::stepInference( float relax ){$/;"	f	class:DenseCRF
+table_	src/permutohedral.h	/^	int * table_;$/;"	m	class:HashTable
+tmp_	include/densecrf.h	/^	float *unary_, *additional_unary_, *current_, *next_, *tmp_;$/;"	m	class:DenseCRF
+unaryEnergy	src/densecrf.cpp	/^void DenseCRF::unaryEnergy(const short* ass, float* result) {$/;"	f	class:DenseCRF
+unary_	include/densecrf.h	/^	float *unary_, *additional_unary_, *current_, *next_, *tmp_;$/;"	m	class:DenseCRF
+very_fast_exp	src/fastmath.h	/^inline __m128 very_fast_exp(__m128 x) {$/;"	f
+very_fast_exp	src/fastmath.h	/^inline float very_fast_exp(float x) {$/;"	f
+w_	src/bipartitedensecrf.cpp	/^	float w_;$/;"	m	class:BPPottsPotential	file:
+w_	src/densecrf.cpp	/^	float w_;$/;"	m	class:PottsPotential	file:
+writePGM	examples/util.cpp	/^void writePGM ( const char* filename, int W, int H, const char* data )$/;"	f
+writePPM	examples/util.cpp	/^void writePPM ( const char* filename, int W, int H, unsigned char* data )$/;"	f
+~BPPottsPotential	src/bipartitedensecrf.cpp	/^	~BPPottsPotential(){$/;"	f	class:BPPottsPotential
+~BipartiteDenseCRF	src/bipartitedensecrf.cpp	/^BipartiteDenseCRF::~BipartiteDenseCRF() {$/;"	f	class:BipartiteDenseCRF
+~DenseCRF	src/densecrf.cpp	/^DenseCRF::~DenseCRF() {$/;"	f	class:DenseCRF
+~DenseCRF2D	src/densecrf.cpp	/^DenseCRF2D::~DenseCRF2D() {$/;"	f	class:DenseCRF2D
+~Filter	src/filter.cpp	/^Filter::~Filter(){$/;"	f	class:Filter
+~HashTable	src/permutohedral.h	/^	~HashTable() {$/;"	f	class:HashTable
+~PairwisePotential	src/densecrf.cpp	/^PairwisePotential::~PairwisePotential() {$/;"	f	class:PairwisePotential
+~Permutohedral	src/permutohedral.h	/^	~Permutohedral(){$/;"	f	class:Permutohedral
+~PottsPotential	src/densecrf.cpp	/^	~PottsPotential(){$/;"	f	class:PottsPotential
+~SemiMetricFunction	src/densecrf.cpp	/^SemiMetricFunction::~SemiMetricFunction() {$/;"	f	class:SemiMetricFunction

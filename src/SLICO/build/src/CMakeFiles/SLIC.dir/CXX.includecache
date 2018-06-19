@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/SLIC.h
+vector
+-
+string
+-
+algorithm
+-
+
+/home/xduser/lihuan/SLICO/src/SLIC.cpp
+cfloat
+-
+cmath
+-
+iostream
+-
+fstream
+-
+SLIC.h
+/home/xduser/lihuan/SLICO/src/SLIC.h
+assert.h
+-
+path_split.h
+/home/xduser/lihuan/SLICO/src/path_split.h
+
+/home/xduser/lihuan/SLICO/src/path_split.cpp
+stdio.h
+-
+string.h
+-
+
+/home/xduser/lihuan/SLICO/src/path_split.h
+stdio.h
+-
+string.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/j2seg.dir/j2seg.cpp.o  -o j2seg -rdynamic /home/xduser/LiHuan/SLICO/lib/libjpeg.a ../src/libSLIC.a 

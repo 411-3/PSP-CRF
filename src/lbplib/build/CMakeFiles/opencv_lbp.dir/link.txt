@@ -1,0 +1,2 @@
+/usr/bin/ar cr libopencv_lbp.a  CMakeFiles/opencv_lbp.dir/test.cpp.o
+/usr/bin/ranlib libopencv_lbp.a

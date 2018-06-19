@@ -1,0 +1,2 @@
+/usr/bin/ar cr libSLIC.a  CMakeFiles/SLIC.dir/path_split.cpp.o CMakeFiles/SLIC.dir/SLIC.cpp.o
+/usr/bin/ranlib libSLIC.a

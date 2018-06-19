@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/xduser/lihuan/cnpy-master/cnpy.h
+string
+-
+stdexcept
+-
+sstream
+-
+vector
+-
+cstdio
+-
+typeinfo
+-
+iostream
+-
+cassert
+-
+zlib.h
+-
+map
+-
+
+/home/xduser/lihuan/cnpy-master/example1.cpp
+cnpy.h
+/home/xduser/lihuan/cnpy-master/cnpy.h
+complex
+-
+cstdlib
+-
+iostream
+-
+map
+-
+string
+-
+
